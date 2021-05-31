@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-31T14:24:18.679Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="UAyxA2csiK-3BvWvW2Ed" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-31T14:24:41.159Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="gPZhw4gYH5tmw2EYW3iE" version="14.7.2" type="github">
   <diagram id="bhFd1MsYlGw5EBodZL_S" name="Page-1">
     <mxGraphModel dx="1350" dy="4106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -51,7 +51,7 @@
         <mxCell id="Qs6Rd6eEG6VDtpSaX0WT-8" value="infobip-sms-sender" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="640" y="510" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Qs6Rd6eEG6VDtpSaX0WT-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qs6Rd6eEG6VDtpSaX0WT-9" target="Qs6Rd6eEG6VDtpSaX0WT-1">
+        <mxCell id="Qs6Rd6eEG6VDtpSaX0WT-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="Qs6Rd6eEG6VDtpSaX0WT-9" target="Qs6Rd6eEG6VDtpSaX0WT-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Qs6Rd6eEG6VDtpSaX0WT-9" value="socketlabs-email-sender" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
