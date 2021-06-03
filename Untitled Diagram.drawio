@@ -1,23 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2021-05-19T17:59:27.299Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="GHHlDXOa_l1qoKyinWwQ" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-03T18:13:03.309Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="oQDDghNyDgLjHMrBe_S6" version="14.7.3" type="github">
   <diagram id="o3v9zGSRblRuSPQtVMKY" name="Page-1">
     <mxGraphModel dx="1350" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="sKk9lR-nsjvR3i9xRPQ5-1" value="digitalcampaigns&lt;br&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="170" y="130" width="60" height="80" as="geometry" />
+          <mxGeometry x="140" y="80" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sKk9lR-nsjvR3i9xRPQ5-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sKk9lR-nsjvR3i9xRPQ5-3" target="sKk9lR-nsjvR3i9xRPQ5-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sKk9lR-nsjvR3i9xRPQ5-3" value="10.105.161.139" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="365" y="120" width="120" height="60" as="geometry" />
+        <mxCell id="sKk9lR-nsjvR3i9xRPQ5-3" value="DigitalCampaignsAPI" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sKk9lR-nsjvR3i9xRPQ5-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="sKk9lR-nsjvR3i9xRPQ5-6" target="sKk9lR-nsjvR3i9xRPQ5-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sKk9lR-nsjvR3i9xRPQ5-6" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;[&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250);&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;{ campaignId: &quot;54&quot;, referencedKey: &quot;1&quot;},&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250);&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;{ campaignId: &quot;54&quot;, referencedKey: &quot;3&quot;},&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250);&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;]&amp;nbsp;&lt;/span&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="110" y="380" width="130" height="100" as="geometry" />
+          <mxGeometry x="90" y="210" width="130" height="100" as="geometry" />
         </mxCell>
         <mxCell id="sKk9lR-nsjvR3i9xRPQ5-7" value="CSPD020104.out_FALLBACK_202105171433" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="130" y="330" width="260" height="20" as="geometry" />
@@ -25,7 +25,7 @@
         <mxCell id="sKk9lR-nsjvR3i9xRPQ5-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sKk9lR-nsjvR3i9xRPQ5-9" target="sKk9lR-nsjvR3i9xRPQ5-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sKk9lR-nsjvR3i9xRPQ5-18" value="Find Fails" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="sKk9lR-nsjvR3i9xRPQ5-10" vertex="1" connectable="0">
+        <mxCell id="sKk9lR-nsjvR3i9xRPQ5-18" value="Find Campaigns with Fallback, and message with fails" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="sKk9lR-nsjvR3i9xRPQ5-10" vertex="1" connectable="0">
           <mxGeometry x="-0.1852" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -33,45 +33,24 @@
         <mxCell id="sKk9lR-nsjvR3i9xRPQ5-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sKk9lR-nsjvR3i9xRPQ5-9" target="sKk9lR-nsjvR3i9xRPQ5-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sKk9lR-nsjvR3i9xRPQ5-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sKk9lR-nsjvR3i9xRPQ5-9" target="sKk9lR-nsjvR3i9xRPQ5-1" edge="1">
+        <mxCell id="sKk9lR-nsjvR3i9xRPQ5-9" value="Manager" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sKk9lR-nsjvR3i9xRPQ5-12" value="SCP" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sKk9lR-nsjvR3i9xRPQ5-15" value="[&lt;br&gt;{ campaignId: &quot;54&quot;, initialReferencedKey: &quot;1&quot;,&lt;br&gt;&quot;newKey&quot;: &quot;4&quot;},&lt;br&gt;{ campaignId: &quot;54&quot;, initialReferencedKey: &quot;3&quot;,&lt;br&gt;&quot;newKey&quot;: 5},&lt;br&gt;]&amp;nbsp;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="660" width="120" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="GIdS3LOhMRxrJmHubpFw-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sKk9lR-nsjvR3i9xRPQ5-16" target="sKk9lR-nsjvR3i9xRPQ5-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="660" y="260" />
-              <mxPoint x="660" y="70" />
-              <mxPoint x="200" y="70" />
+              <mxPoint x="710" y="710" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sKk9lR-nsjvR3i9xRPQ5-19" value="Consult Pending Fallback" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="sKk9lR-nsjvR3i9xRPQ5-17" vertex="1" connectable="0">
-          <mxGeometry x="-0.1385" y="-3" relative="1" as="geometry">
-            <mxPoint x="-64" y="3" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sKk9lR-nsjvR3i9xRPQ5-9" value="Manager" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="230" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="sKk9lR-nsjvR3i9xRPQ5-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sKk9lR-nsjvR3i9xRPQ5-12" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="650" y="390" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sKk9lR-nsjvR3i9xRPQ5-12" value="SCP" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="410" y="350" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="sKk9lR-nsjvR3i9xRPQ5-15" value="[&lt;br&gt;{ campaignId: &quot;54&quot;, initialReferencedKey: &quot;1&quot;,&lt;br&gt;&quot;newKey&quot;: &quot;4&quot;},&lt;br&gt;{ campaignId: &quot;54&quot;, initialReferencedKey: &quot;3&quot;,&lt;br&gt;&quot;newKey&quot;: 5},&lt;br&gt;]&amp;nbsp;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="650" y="350" width="120" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="GIdS3LOhMRxrJmHubpFw-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sKk9lR-nsjvR3i9xRPQ5-16" target="sKk9lR-nsjvR3i9xRPQ5-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="sKk9lR-nsjvR3i9xRPQ5-16" value="FallbackProcessing" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="650" y="330" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="sKk9lR-nsjvR3i9xRPQ5-23" value="FallbackPrint&lt;br&gt;fallbackId | printDate | expeditionDate" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="680" y="140" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="sKk9lR-nsjvR3i9xRPQ5-24" value="Fallback&lt;br&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="650" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="730" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
