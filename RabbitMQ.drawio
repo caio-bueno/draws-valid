@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2022-02-15T11:35:26.763Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="uRlBBDmZmFMw3AnkMrYZ" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-15T21:14:30.535Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="fE9V9Fz6Z1inxnchTdm9" version="16.5.6" type="github">
   <diagram id="TXDNzBFO56J-YI6divBh" name="Page-1">
-    <mxGraphModel dx="1350" dy="1905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2200" dy="1905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vqhlufGFlDq_QipqF_gs-1" value="multichannel-sms-sender&lt;br&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="vqhlufGFlDq_QipqF_gs-1" value="multichannel-integration-infobip-sms-sender-api" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="661" y="110" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vqhlufGFlDq_QipqF_gs-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vqhlufGFlDq_QipqF_gs-2" target="vqhlufGFlDq_QipqF_gs-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vqhlufGFlDq_QipqF_gs-2" value="sms-sender" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="vqhlufGFlDq_QipqF_gs-2" value="multichannel-integration-sms-sender" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="450" y="110" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vqhlufGFlDq_QipqF_gs-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=90;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="vqhlufGFlDq_QipqF_gs-2">
@@ -51,13 +51,13 @@
         <mxCell id="vqhlufGFlDq_QipqF_gs-9" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="320" y="-185" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vqhlufGFlDq_QipqF_gs-12" value="multichannel-email-sender" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="vqhlufGFlDq_QipqF_gs-12" value="multichannel-integration-socketlabs-email-sender-api" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="661" y="220" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vqhlufGFlDq_QipqF_gs-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vqhlufGFlDq_QipqF_gs-14" target="vqhlufGFlDq_QipqF_gs-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vqhlufGFlDq_QipqF_gs-14" value="email-sender" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="vqhlufGFlDq_QipqF_gs-14" value="multichannel-integration-email-sender" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="451" y="220" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vqhlufGFlDq_QipqF_gs-16" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
@@ -72,15 +72,19 @@
         <mxCell id="vqhlufGFlDq_QipqF_gs-18" value="GCP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="450" y="40" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vqhlufGFlDq_QipqF_gs-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=10;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vqhlufGFlDq_QipqF_gs-19">
+        <mxCell id="vqhlufGFlDq_QipqF_gs-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vqhlufGFlDq_QipqF_gs-19" target="vqhlufGFlDq_QipqF_gs-51">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="250" y="160" as="targetPoint" />
             <Array as="points">
               <mxPoint x="200" y="280" />
               <mxPoint x="200" y="210" />
               <mxPoint x="250" y="210" />
+              <mxPoint x="250" y="140" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="vqhlufGFlDq_QipqF_gs-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vqhlufGFlDq_QipqF_gs-19" target="vqhlufGFlDq_QipqF_gs-60">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vqhlufGFlDq_QipqF_gs-19" value="socketlabs-notification-api" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="80" y="240" width="80" height="80" as="geometry" />
@@ -90,11 +94,14 @@
             <mxPoint x="290" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vqhlufGFlDq_QipqF_gs-21" value="infobip-notifications-api" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="vqhlufGFlDq_QipqF_gs-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vqhlufGFlDq_QipqF_gs-21" target="vqhlufGFlDq_QipqF_gs-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vqhlufGFlDq_QipqF_gs-21" value="infobip-notifications-api" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="82" y="350" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vqhlufGFlDq_QipqF_gs-23" value="infobip-sms-report-consumer" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="370" y="420" width="80" height="80" as="geometry" />
+          <mxGeometry x="371" y="430" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vqhlufGFlDq_QipqF_gs-38" value="" style="strokeWidth=2;dashed=0;align=center;fontSize=8;shape=rect;fillColor=#fffbc0;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1167" y="660" width="26" height="18" as="geometry" />
@@ -145,6 +152,12 @@
         </mxCell>
         <mxCell id="vqhlufGFlDq_QipqF_gs-52" value="socketlabs-notification-consumer" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="270" y="430" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vqhlufGFlDq_QipqF_gs-60" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="240" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vqhlufGFlDq_QipqF_gs-62" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="350" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
