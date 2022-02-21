@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-18T02:03:15.328Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="KDVLFUi0qNV5V2SiVy2l" version="16.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-21T13:54:26.159Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="FN2gz8bfhZ777x-OR3oQ" version="16.6.1" type="github">
   <diagram id="TXDNzBFO56J-YI6divBh" name="Page-1">
     <mxGraphModel dx="2200" dy="1905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -156,7 +156,7 @@
         <mxCell id="vqhlufGFlDq_QipqF_gs-52" value="socketlabs-notification-consumer" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="270" y="430" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vqhlufGFlDq_QipqF_gs-60" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+        <mxCell id="vqhlufGFlDq_QipqF_gs-60" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-60" y="240" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vqhlufGFlDq_QipqF_gs-62" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -165,7 +165,7 @@
         <mxCell id="E9g9ErYIvClVgziJOiVY-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E9g9ErYIvClVgziJOiVY-1" target="E9g9ErYIvClVgziJOiVY-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E9g9ErYIvClVgziJOiVY-1" value="file-sender-to-scp2" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="E9g9ErYIvClVgziJOiVY-1" value="file-sender-to-scp2" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-78" y="130" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="E9g9ErYIvClVgziJOiVY-4" value="Recepção SCP2" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.ftp_server;" parent="1" vertex="1">
