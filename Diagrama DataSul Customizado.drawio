@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-24T20:48:22.961Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="5IfkiZ4Gr9HT5c8xTQgv" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-24T20:49:01.246Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="fbeC8cXMkiZ4HQ_i47AL" version="20.5.1" type="github">
   <diagram name="Page-1" id="efa7a0a1-bf9b-a30e-e6df-94a7791c09e9">
-    <mxGraphModel dx="3472" dy="1700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,14 +13,11 @@
         <mxCell id="kxRyARiAPBWNzmmKZJo8-119" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;b&gt;InsumoEspecificado&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#9673a6;shadow=1;fillColor=#e1d5e7;" parent="1" vertex="1">
           <mxGeometry x="605.75" y="40" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kxRyARiAPBWNzmmKZJo8-127" value="" style="endArrow=open;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;rounded=0;elbow=vertical;html=1;" parent="1" edge="1">
+        <mxCell id="kxRyARiAPBWNzmmKZJo8-127" value="" style="endArrow=open;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;rounded=0;elbow=vertical;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1" target="kxRyARiAPBWNzmmKZJo8-115" source="kxRyARiAPBWNzmmKZJo8-114">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="206" y="80" as="sourcePoint" />
             <mxPoint x="352.5" y="80" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="310" y="80" />
-              <mxPoint x="310" y="80" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kxRyARiAPBWNzmmKZJo8-130" value="" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;rounded=0;elbow=vertical;" parent="1" source="kxRyARiAPBWNzmmKZJo8-115" target="kxRyARiAPBWNzmmKZJo8-119" edge="1">
@@ -53,7 +50,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xdecVxI8g7WjwIrV84c3-115" value="1: KIT - Cartão Cliente" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="77" y="169" width="120" height="60" as="geometry" />
+          <mxGeometry x="77" y="166" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xdecVxI8g7WjwIrV84c3-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xdecVxI8g7WjwIrV84c3-116" target="xdecVxI8g7WjwIrV84c3-117">
           <mxGeometry relative="1" as="geometry">
