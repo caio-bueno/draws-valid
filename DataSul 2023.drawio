@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-09T18:21:21.886Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="dNYW1HEi7LxvfMWVcv1K" version="21.0.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-03-09T18:21:33.720Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="pdGE7B2OMUagoV4ZMI1k" version="21.0.6" type="github" pages="6">
   <diagram name="Página-1" id="3pVQ3GwzRV_Wrgn4C8Db">
     <mxGraphModel dx="1362" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -252,7 +252,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="qqc7plrVnHKCr5ZejDmN-1" value="HEADER&lt;br&gt;CANAL DE EXPEDIÇÃO&lt;br&gt;CÓDIGO DO ITEM DO CLIENTE&lt;br&gt;&lt;br&gt;DETALHE&lt;br&gt;MOTIVO DE EMISSÃO (3,10)&lt;br&gt;CÓDIGO DO KIT (11,20)&lt;br&gt;&lt;br&gt;&lt;br&gt;Com esses quatro campos, o sistema busca no DataSul padrão a Engenharia do Kit inteiro (Folheteria e plástico)&lt;br&gt;&lt;br&gt;Existem 3 tipos de plastico:&lt;br&gt;&lt;br&gt;Faturado&lt;br&gt;Acoplado&lt;br&gt;Comprado&lt;br&gt;&lt;br&gt;O código do plastico a ser usado é definido pelo atendimento a cliente e esse é o código usado na importação&lt;br&gt;&lt;br&gt;Se não tem saldo de algum dos itens, o erro é mostrado na tela para o PCP -&amp;gt; tela de Ruptura (ESBU1051)&lt;br&gt;&lt;br&gt;Se tem saldo, o PCP monitora a tela de Listagem Separação Cofre" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="-100" width="530" height="380" as="geometry" />
+          <mxGeometry x="40" y="-100" width="760" height="380" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
