@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-09T16:27:16.217Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="eqIZIDkkXzJdewbFQ09B" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-09T16:44:46.584Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="quwo2mq8pU_-6pHq4EBl" version="21.0.6" type="github" pages="5">
   <diagram name="Página-1" id="3pVQ3GwzRV_Wrgn4C8Db">
     <mxGraphModel dx="1362" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -195,6 +195,53 @@
         </mxCell>
         <mxCell id="zbPyiTxh5-yumL0Ah3kJ-47" value="DOCUMENTO PARA TROCA DA PERDA (DRH)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="1032" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="N7O0Ohn5_Qiu4CTzzwoC" name="DADOS ETIQUETA DE CAIXA DE CARTAO">
+    <mxGraphModel dx="1362" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="O-O2S1q0Dv-WHN492UIv-1" value="&lt;pre&gt;NOME DO ARQUIVO / (TIPO POSTAGEM)&lt;/pre&gt;&lt;pre&gt;TERMO FRENTE E VERSO (CADASTRO DE PRODUTO)&lt;br&gt;AZUL &lt;/pre&gt;&lt;pre&gt;(DATA DE GERAÇÃO)&lt;br&gt;CLIENTE: (VALID)&lt;br&gt;INICIAL: (CLIENTE DENTRO DO ARQUIVO)&lt;br&gt;FINAL (CLIENTE DENTRO DO ARQUIVO)&lt;br&gt;EXTENSÃO&lt;br&gt;CAIXA/SEQ/TOTAL DE CAIXAS&lt;br&gt;QTD DE CARTÕES&lt;/pre&gt;&lt;pre&gt;&lt;br&gt;ETIQUETA -&amp;gt; NUMERO_DA_CAIXA#001&lt;/pre&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="10" width="380" height="260" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="52VzRcfzHVe2uhqdRQod" name="DADOS LISTAGEM DE SEPARAÇÃO">
+    <mxGraphModel dx="1362" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bliWbMOCS_ToV6TciVIp-1" value="&lt;pre style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Nome do arquivo&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Data de recebimento&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Data base SLA&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Canal&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Ordem produção&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Listagem de separação&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Classificacao cartão&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;---&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Extensão&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Cartão (código do item)&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Descrição&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Qtd cartão&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Saldo disponível&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Localização&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Lote&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Data&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Quantidade&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Observação&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Total&lt;/span&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="10" width="190" height="330" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="3gMP9KTVQtL2Ze_dkORc" name="ESBU1003 - TELA LISTAGEM COFRE">
+    <mxGraphModel dx="1362" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kNDLft-JJer3eFfKMjrN-1" value="&lt;pre&gt;ESTABELECIMENTO&lt;/pre&gt;&lt;pre&gt;COD CLIENTE&lt;br&gt;SITUAÇÃO&lt;br&gt;MODELO&lt;br&gt;NOME DO ARQUIVO&lt;/pre&gt;&lt;pre&gt;---&lt;/pre&gt;&lt;pre&gt;ARQUIVOS&lt;/pre&gt;&lt;pre&gt;SET&lt;br&gt;EST&lt;br&gt;ARQUIVO&lt;br&gt;DATA DE RECEBIMENTO&lt;br&gt;DATA BASE DE SLA&lt;br&gt;ORDEM&lt;br&gt;COD CLIENTE&lt;br&gt;CLIENTE&lt;br&gt;SLA&lt;br&gt;DT EXPEDIÇÃO&lt;br&gt;QTD CARTOES LISTAGEM&lt;br&gt;QTD CANCELADA&lt;br&gt;QTD LIBERADA&lt;br&gt;SITUAÇÃO LIBERADO&lt;br&gt;---&lt;br&gt;DETALHE&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;PLASTICO&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;MODELO&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;DESCRICAO&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;QTD CARTOES LISTAGEM&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;QTD CANCELADA&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;QTD LIBERADA&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;SITUACAO&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;NUMERO DA LISTAGEM&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="30" width="190" height="480" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="4GBrYn530xzWx4Bx5uhz" name="ESBU2090 - TELA CONSULTA SITUAÇÃO DO ARQUIVO">
+    <mxGraphModel dx="1362" dy="1976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="X5K20be5xkIjd4ZX9bP1-1" value="&lt;pre&gt;estabelecimento&lt;/pre&gt;&lt;br&gt;nome arquivo&lt;br&gt;&lt;br&gt;cliente&lt;br&gt;&lt;br&gt;situação do arquivo&lt;br&gt;&lt;br&gt;data de recebimento&lt;br&gt;&lt;br&gt;---&lt;br&gt;&lt;br&gt;Seq&lt;br&gt;&lt;br&gt;Td&lt;br&gt;nome&lt;br&gt;listagem&lt;br&gt;caixa&lt;br&gt;numero cartao&lt;br&gt;prefixo&lt;br&gt;ar&lt;br&gt;numero do berço&lt;br&gt;situação&lt;br&gt;extensão&lt;br&gt;Seq Bureau&lt;br&gt;Seq Dep&lt;br&gt;Status Liberado&lt;br&gt;Kit&lt;br&gt;Modelo&lt;br&gt;Logo&lt;br&gt;Motivo&amp;nbsp;&lt;br&gt;Agencia&lt;br&gt;Item&lt;br&gt;Canal&lt;br&gt;Referencia&lt;br&gt;Numero Rostinho&lt;br&gt;Numero remessa&lt;br&gt;&lt;br&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="-130" width="130" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="X5K20be5xkIjd4ZX9bP1-2" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
