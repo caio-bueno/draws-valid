@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2023-02-14T12:51:30.626Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.20" etag="kd4xlGOAdytIPWgwklfb" type="github"><diagram name="Página-1" id="xU2mN10AmFNhd3wzc1Om">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-24T21:49:34.809Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="jx4nA7kHus4UaXZWYJbT" version="21.1.0" type="github">
+  <diagram name="Página-1" id="xU2mN10AmFNhd3wzc1Om">
+    <mxGraphModel dx="1362" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="r4Rtn8Evvri10cC-PZXu-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r4Rtn8Evvri10cC-PZXu-1" target="r4Rtn8Evvri10cC-PZXu-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r4Rtn8Evvri10cC-PZXu-1" value="journey_fallback&lt;br&gt;&lt;br&gt;brand_id&lt;br&gt;application_id&lt;br&gt;journey_id" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="65" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="r4Rtn8Evvri10cC-PZXu-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r4Rtn8Evvri10cC-PZXu-2" target="r4Rtn8Evvri10cC-PZXu-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r4Rtn8Evvri10cC-PZXu-2" value="journey&lt;br&gt;&lt;br&gt;id&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="40" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="r4Rtn8Evvri10cC-PZXu-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="r4Rtn8Evvri10cC-PZXu-4" target="r4Rtn8Evvri10cC-PZXu-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r4Rtn8Evvri10cC-PZXu-4" value="journey_flow_mailing&lt;br&gt;&lt;br&gt;mailing_id&lt;br&gt;parent_journey_flow_id (null)&lt;br&gt;child_journey_flow_id (cada JF abaixo do raiz)&lt;br&gt;&lt;br&gt;&lt;br&gt;1 | PAN_fallback_SMS_17_30 | JF-1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="240" width="260" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="r4Rtn8Evvri10cC-PZXu-5" value="journey_flow&lt;br&gt;&lt;br&gt;id" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="40" width="200" height="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
