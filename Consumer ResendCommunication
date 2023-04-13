@@ -1,9 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2023-04-13T13:28:46.362Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="21.1.7" etag="EQR3RXZkBhqHB7Qf9AYW" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-13T13:53:15.872Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="mnQsSVzI_3lz5qJfNYcU" version="21.1.7" type="github">
   <diagram name="Página-1" id="nd9DZk2VrrbZflF89ecS">
-    <mxGraphModel>
+    <mxGraphModel dx="1362" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="IduYBovIfngXSo7gbkiY-1" value="resend-communication" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="180" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IduYBovIfngXSo7gbkiY-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IduYBovIfngXSo7gbkiY-2" target="IduYBovIfngXSo7gbkiY-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IduYBovIfngXSo7gbkiY-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IduYBovIfngXSo7gbkiY-2" target="IduYBovIfngXSo7gbkiY-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IduYBovIfngXSo7gbkiY-2" value="gateway-api" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="230" y="290" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IduYBovIfngXSo7gbkiY-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="IduYBovIfngXSo7gbkiY-2" target="IduYBovIfngXSo7gbkiY-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="575" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="270" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IduYBovIfngXSo7gbkiY-8" value="&lt;pre data-pm-slice=&quot;1 1 []&quot;&gt;&lt;code data-language=&quot;json&quot;&gt;{&lt;br&gt;	&quot;brandId&quot;: &quot;30&quot;,&lt;br&gt;	&quot;channel&quot;: &quot;EMAIL&quot;,&lt;br&gt;	&quot;communicationKey&quot;: &quot;90ff05e2-dedf-4900-87e2-10f64a278321&quot;,&lt;br&gt;	&quot;newDestination&quot;: &quot;caio.ribeiro@valid.com&quot;&lt;br&gt;}&lt;/code&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="40" width="230" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="IduYBovIfngXSo7gbkiY-11" value="DataApi-30" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IduYBovIfngXSo7gbkiY-12" value="DataApi-1004" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IduYBovIfngXSo7gbkiY-13" value="DataApi-80" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IduYBovIfngXSo7gbkiY-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IduYBovIfngXSo7gbkiY-18" target="IduYBovIfngXSo7gbkiY-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IduYBovIfngXSo7gbkiY-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IduYBovIfngXSo7gbkiY-18" target="IduYBovIfngXSo7gbkiY-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="330" />
+              <mxPoint x="420" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IduYBovIfngXSo7gbkiY-21" value="/data-api/30/communication&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;/data-api/1004/communication&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;/data-api/80/communication&lt;br&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IduYBovIfngXSo7gbkiY-20">
+          <mxGeometry x="0.1273" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IduYBovIfngXSo7gbkiY-18" value="resend-consumer" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="530" y="290" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
