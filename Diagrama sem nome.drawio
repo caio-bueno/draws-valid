@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-09T14:07:34.592Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="pqpJGIFxAVyuFpyzoTRv" version="21.3.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-06-09T18:24:30.390Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="CrtQ1b1-WA2EbKz2BGmJ" version="21.3.8" type="github" pages="4">
   <diagram name="Insert de Mailing e Pacote" id="lF3jtP0QK_2BHrpvGSCH">
     <mxGraphModel dx="1362" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -135,7 +135,7 @@
         <mxCell id="BjVdgFGOSt9vHcssXVpr-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BjVdgFGOSt9vHcssXVpr-2" target="BjVdgFGOSt9vHcssXVpr-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BjVdgFGOSt9vHcssXVpr-2" value="data-api&lt;br&gt;50" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BjVdgFGOSt9vHcssXVpr-2" value="data-api&lt;br&gt;50" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="560" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BjVdgFGOSt9vHcssXVpr-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BjVdgFGOSt9vHcssXVpr-6">
@@ -143,7 +143,7 @@
             <mxPoint x="620" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BjVdgFGOSt9vHcssXVpr-6" value="data-api&lt;br&gt;1004" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BjVdgFGOSt9vHcssXVpr-6" value="data-api&lt;br&gt;1004" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="560" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BjVdgFGOSt9vHcssXVpr-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="BjVdgFGOSt9vHcssXVpr-7" target="BjVdgFGOSt9vHcssXVpr-12">
@@ -192,7 +192,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Banco de dados Postgres - autenticationservice" id="2563tfGpi3_izA32CDwc">
-    <mxGraphModel dx="2189" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2189" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="yc2Phyb1XLGK31DDjYgv-0" />
         <mxCell id="yc2Phyb1XLGK31DDjYgv-1" parent="yc2Phyb1XLGK31DDjYgv-0" />
@@ -247,7 +247,7 @@
           <mxGeometry x="-170" y="445" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="hT2WGAaHUfMsYcffoQle-0" value="https://multichannel.validpay.com.br/external/30/auth/login" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yc2Phyb1XLGK31DDjYgv-1">
-          <mxGeometry x="-100" y="120" width="60" height="30" as="geometry" />
+          <mxGeometry x="-110" y="165" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hT2WGAaHUfMsYcffoQle-1" value="https://multichannel.validpay.com.br/external/1004/auth/login" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yc2Phyb1XLGK31DDjYgv-1">
           <mxGeometry x="-90" y="415" width="60" height="30" as="geometry" />
@@ -318,7 +318,7 @@
         <mxCell id="9yzzEEXZHbrVzCqxBSXu-17" value="username: unimed-sjp&lt;br&gt;password: pass-unimed&lt;br&gt;client: unimed-client&lt;br&gt;brandid: 1004" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="9yzzEEXZHbrVzCqxBSXu-1">
           <mxGeometry x="-170" y="445" width="140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="9yzzEEXZHbrVzCqxBSXu-18" value="https://multichannel.validpay.com.br/external/auth/login" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9yzzEEXZHbrVzCqxBSXu-1">
+        <mxCell id="9yzzEEXZHbrVzCqxBSXu-18" value="https://multichannel.validpay.com.br/external/30/auth/login" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9yzzEEXZHbrVzCqxBSXu-1">
           <mxGeometry x="-100" y="120" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wxPiHJGwGqPJv8y698E3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="9yzzEEXZHbrVzCqxBSXu-1" source="wxPiHJGwGqPJv8y698E3-0" target="9yzzEEXZHbrVzCqxBSXu-9">
@@ -336,11 +336,11 @@
         <mxCell id="wxPiHJGwGqPJv8y698E3-5" value="external-authentication" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="9yzzEEXZHbrVzCqxBSXu-1">
           <mxGeometry x="138.75" y="510" width="92.5" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="3al_UqbFpiiq7xHpvsWy-0" value="Pros&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;A URL não expoe o BrandId&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Pode colocar os dois modulos juntos external-gateway e autentication-service se for o caso&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;O External Gateway e o authentication service podem estar no namespace general (e ser 1 pod unico)&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" vertex="1" parent="9yzzEEXZHbrVzCqxBSXu-1">
-          <mxGeometry x="-30" y="5" width="610" height="110" as="geometry" />
+        <mxCell id="3al_UqbFpiiq7xHpvsWy-0" value="Pros&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Pode colocar os dois modulos juntos external-gateway e autentication-service se for o caso&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;O External Gateway e o authentication service podem estar no namespace general (e ser 1 pod unico)&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" vertex="1" parent="9yzzEEXZHbrVzCqxBSXu-1">
+          <mxGeometry x="-30" y="10" width="610" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="3al_UqbFpiiq7xHpvsWy-1" value="Contras&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;Utilizar o mongo do Delivery&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" vertex="1" parent="9yzzEEXZHbrVzCqxBSXu-1">
-          <mxGeometry x="600" y="10" width="210" height="80" as="geometry" />
+        <mxCell id="w1hXZTeyYidMwkxJhwmr-1" value="https://multichannel.validpay.com.br/external/1004/auth/login" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9yzzEEXZHbrVzCqxBSXu-1">
+          <mxGeometry x="-130" y="415" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
