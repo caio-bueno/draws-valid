@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-19T20:47:34.338Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="BGt057bnczAoMhEK62Tc" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-19T21:10:55.212Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="AQV_tVVjl-1Nvge2_DGT" version="21.1.5" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="880" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="40" y="40" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="aM9ryv3xv72pqoxQDRHE-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="aM9ryv3xv72pqoxQDRHE-1" vertex="1">
-          <mxGeometry x="45" y="70" width="10" height="190" as="geometry" />
+          <mxGeometry x="45" y="70" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aM9ryv3xv72pqoxQDRHE-3" value="solicitar uma cobrança" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="aM9ryv3xv72pqoxQDRHE-1" target="aM9ryv3xv72pqoxQDRHE-2" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -32,7 +32,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0brQAF-G7d1sZkNHqkoA-1" value="Emissor" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="0brQAF-G7d1sZkNHqkoA-1" value="Emissor" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#ffe6cc;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="400" y="40" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="0brQAF-G7d1sZkNHqkoA-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="0brQAF-G7d1sZkNHqkoA-1">
@@ -47,7 +47,7 @@
         <mxCell id="0brQAF-G7d1sZkNHqkoA-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="0brQAF-G7d1sZkNHqkoA-3">
           <mxGeometry x="45" y="80" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0brQAF-G7d1sZkNHqkoA-5" value="Webhook para o BB" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="0brQAF-G7d1sZkNHqkoA-5" value="Webhook para o BB" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#ffe6cc;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="740" y="40" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="0brQAF-G7d1sZkNHqkoA-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="0brQAF-G7d1sZkNHqkoA-5">
@@ -71,7 +71,7 @@
             <mxPoint x="630" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0brQAF-G7d1sZkNHqkoA-11" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="0brQAF-G7d1sZkNHqkoA-11" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="460" y="150" as="targetPoint" />
             <Array as="points">
@@ -89,7 +89,7 @@
             <mxPoint x="440" y="150" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0brQAF-G7d1sZkNHqkoA-13" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="0brQAF-G7d1sZkNHqkoA-13" value="exibe o QR code do PIX" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="100" y="150" as="targetPoint" />
             <Array as="points">
