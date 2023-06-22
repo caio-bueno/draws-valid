@@ -1,39 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2023-04-06T12:12:10.045Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="DXWWQ-62_UP_P4QaiUT4" version="21.1.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-06-22T13:40:10.159Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="mv0A5xwenfLfwQMgCSod" version="21.3.8" type="github" pages="5">
   <diagram id="YxFvI_uIcB84SnNnGRw-" name="Atual">
     <mxGraphModel dx="1362" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CtnxO_S1MOAsiUadGHfg-1" value="CREATED" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CtnxO_S1MOAsiUadGHfg-1" value="CREATED" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="19.25" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CtnxO_S1MOAsiUadGHfg-2" value="PROCESSING" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CtnxO_S1MOAsiUadGHfg-2" value="PROCESSING" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="139.25" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CtnxO_S1MOAsiUadGHfg-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CtnxO_S1MOAsiUadGHfg-12" target="CtnxO_S1MOAsiUadGHfg-1">
+        <mxCell id="CtnxO_S1MOAsiUadGHfg-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CtnxO_S1MOAsiUadGHfg-12" target="CtnxO_S1MOAsiUadGHfg-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="434" y="70" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CtnxO_S1MOAsiUadGHfg-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CtnxO_S1MOAsiUadGHfg-5" target="CtnxO_S1MOAsiUadGHfg-2">
+        <mxCell id="CtnxO_S1MOAsiUadGHfg-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CtnxO_S1MOAsiUadGHfg-5" target="CtnxO_S1MOAsiUadGHfg-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CtnxO_S1MOAsiUadGHfg-5" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;PROCESSAMENTO&lt;br&gt;&lt;br&gt;POST&lt;br&gt;/multichannel-integration-api-ms/mailing-processmentsets&lt;br&gt;&lt;/font&gt;&lt;br&gt;START" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="CtnxO_S1MOAsiUadGHfg-5" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;PROCESSAMENTO&lt;br&gt;&lt;br&gt;POST&lt;br&gt;/multichannel-integration-api-ms/mailing-processmentsets&lt;br&gt;&lt;/font&gt;&lt;br&gt;START" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="130" y="120" width="190" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="CtnxO_S1MOAsiUadGHfg-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CtnxO_S1MOAsiUadGHfg-7" target="CtnxO_S1MOAsiUadGHfg-17">
+        <mxCell id="CtnxO_S1MOAsiUadGHfg-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CtnxO_S1MOAsiUadGHfg-7" target="CtnxO_S1MOAsiUadGHfg-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CtnxO_S1MOAsiUadGHfg-7" value="FINISHED" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CtnxO_S1MOAsiUadGHfg-7" value="FINISHED" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="280" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CtnxO_S1MOAsiUadGHfg-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="CtnxO_S1MOAsiUadGHfg-11" target="CtnxO_S1MOAsiUadGHfg-5">
+        <mxCell id="CtnxO_S1MOAsiUadGHfg-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="CtnxO_S1MOAsiUadGHfg-11" target="CtnxO_S1MOAsiUadGHfg-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CtnxO_S1MOAsiUadGHfg-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CtnxO_S1MOAsiUadGHfg-11" target="CtnxO_S1MOAsiUadGHfg-12">
+        <mxCell id="CtnxO_S1MOAsiUadGHfg-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CtnxO_S1MOAsiUadGHfg-11" target="CtnxO_S1MOAsiUadGHfg-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CtnxO_S1MOAsiUadGHfg-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CtnxO_S1MOAsiUadGHfg-11" target="wXuimSCXRekV6hxsxLyj-2">
+        <mxCell id="CtnxO_S1MOAsiUadGHfg-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CtnxO_S1MOAsiUadGHfg-11" target="wXuimSCXRekV6hxsxLyj-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="25" y="320" />
@@ -41,21 +41,21 @@
             <mxPoint x="130" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CtnxO_S1MOAsiUadGHfg-11" value="SCP" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="CtnxO_S1MOAsiUadGHfg-11" value="SCP" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="10" y="40" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CtnxO_S1MOAsiUadGHfg-12" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;RECEPÇÃO&lt;br&gt;&lt;br&gt;POST&lt;br&gt;/multichannel-data-api-ms/mailing&lt;br&gt;&lt;/font&gt;&lt;br&gt;CREATE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="CtnxO_S1MOAsiUadGHfg-12" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;RECEPÇÃO&lt;br&gt;&lt;br&gt;POST&lt;br&gt;/multichannel-data-api-ms/mailing&lt;br&gt;&lt;/font&gt;&lt;br&gt;CREATE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="130" y="10" width="190" height="97" as="geometry" />
         </mxCell>
-        <mxCell id="CtnxO_S1MOAsiUadGHfg-17" value="END" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CtnxO_S1MOAsiUadGHfg-17" value="END" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wXuimSCXRekV6hxsxLyj-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wXuimSCXRekV6hxsxLyj-2" target="CtnxO_S1MOAsiUadGHfg-7">
+        <mxCell id="wXuimSCXRekV6hxsxLyj-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wXuimSCXRekV6hxsxLyj-2" target="CtnxO_S1MOAsiUadGHfg-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="364" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wXuimSCXRekV6hxsxLyj-2" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;PROCESSAMENTO&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br&gt;PUT&lt;br&gt;/multichannel-integration-api-ms/processmentset-finish&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="wXuimSCXRekV6hxsxLyj-2" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;PROCESSAMENTO&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br&gt;PUT&lt;br&gt;/multichannel-integration-api-ms/processmentset-finish&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="130" y="260" width="190" height="120" as="geometry" />
         </mxCell>
       </root>
@@ -167,6 +167,162 @@
         </mxCell>
         <mxCell id="_E2EDmkY-SUvnkr9MCsw-37" value="1. Criar flag &quot;awaitApproval&quot; no start da mailing&lt;br&gt;2. Criar flag &quot;validation&quot; no envio do pacote&lt;br&gt;2. Quando for finalizar o pacote e a mailing tiver aprovação (awaitApproval):&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;Se o pacote tiver &quot;validation&quot; = true:&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;Status do pacote Será &quot;FINISHED&quot;&lt;br&gt;&amp;nbsp; &amp;nbsp; Se o pacote tiver &quot;validation&quot; = false;&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;Status do pacote será &quot;WAITING_FOR_APPROVAL&quot; (isso faz com que não dispare as comunicações ainda)&lt;br&gt;3. Quando finalizar todos os pacotes o status da mailing deve ser &quot;WAITING_FOR_APPROVAL&quot; e não mais &quot;FINISHED&quot;&lt;br&gt;4. Criar endpoint &quot;/multichannel-data-api-ms/mailing/approved&quot; - alterar os status da mailing e pacotes de &quot;WAITING_FOR_APPROVAL&quot; para &quot;FINISHED&quot;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="20" y="620" width="840" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="KbQScP7TLHpNQ4e16vuT" name="Pacote de Validação">
+    <mxGraphModel dx="1362" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gdJgofAjMxirgEaSYFrf-1" value="Mailing.csv&lt;br&gt;awaitApproval: true&lt;br&gt;WAITING_FOR_APPROVAL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="140" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gdJgofAjMxirgEaSYFrf-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gdJgofAjMxirgEaSYFrf-2" target="gdJgofAjMxirgEaSYFrf-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="260" />
+              <mxPoint x="240" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TB7R9czuEeK57Mwbop6d-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gdJgofAjMxirgEaSYFrf-2" target="TB7R9czuEeK57Mwbop6d-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gdJgofAjMxirgEaSYFrf-2" value="ProcessmentSet_01&lt;br&gt;validation: true" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="300" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TB7R9czuEeK57Mwbop6d-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TB7R9czuEeK57Mwbop6d-1" target="TB7R9czuEeK57Mwbop6d-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TB7R9czuEeK57Mwbop6d-1" value="SCP" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="90" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TB7R9czuEeK57Mwbop6d-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TB7R9czuEeK57Mwbop6d-2" target="gdJgofAjMxirgEaSYFrf-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TB7R9czuEeK57Mwbop6d-2" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;PROCESSAMENTO&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br&gt;PUT&lt;br&gt;/multichannel-integration-api-ms/processmentset-finish&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="460" y="280" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TB7R9czuEeK57Mwbop6d-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TB7R9czuEeK57Mwbop6d-5" target="TB7R9czuEeK57Mwbop6d-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TB7R9czuEeK57Mwbop6d-5" value="ProcessmentSet_01&lt;br&gt;FINISHED" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="470" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TB7R9czuEeK57Mwbop6d-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TB7R9czuEeK57Mwbop6d-7" target="TB7R9czuEeK57Mwbop6d-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TB7R9czuEeK57Mwbop6d-7" value="Comunicações do pacote de validação serão enviadas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="470" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TB7R9czuEeK57Mwbop6d-8" value="DC Comunicado que as comunicações foram enviadas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="570" width="170" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Pacotes de comunicacoes normais" id="kAqngpWv5IIEwV-dEU9O">
+    <mxGraphModel dx="1362" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="GQUcn70LjJXgAh3absY2-0" />
+        <mxCell id="GQUcn70LjJXgAh3absY2-1" parent="GQUcn70LjJXgAh3absY2-0" />
+        <mxCell id="GQUcn70LjJXgAh3absY2-2" value="Mailing.csv&lt;br&gt;awaitApproval: true&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;status: WAITING_FOR_APPROVAL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="GQUcn70LjJXgAh3absY2-1">
+          <mxGeometry x="140" y="140" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GQUcn70LjJXgAh3absY2-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="GQUcn70LjJXgAh3absY2-1" source="GQUcn70LjJXgAh3absY2-5" target="GQUcn70LjJXgAh3absY2-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="260" />
+              <mxPoint x="240" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQUcn70LjJXgAh3absY2-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="GQUcn70LjJXgAh3absY2-1" source="GQUcn70LjJXgAh3absY2-5" target="GQUcn70LjJXgAh3absY2-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQUcn70LjJXgAh3absY2-5" value="ProcessmentSet_01&lt;br&gt;validation: false" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GQUcn70LjJXgAh3absY2-1">
+          <mxGeometry x="150" y="300" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GQUcn70LjJXgAh3absY2-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="GQUcn70LjJXgAh3absY2-1" source="GQUcn70LjJXgAh3absY2-7" target="GQUcn70LjJXgAh3absY2-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQUcn70LjJXgAh3absY2-7" value="SCP" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="GQUcn70LjJXgAh3absY2-1">
+          <mxGeometry x="550" y="90" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GQUcn70LjJXgAh3absY2-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="GQUcn70LjJXgAh3absY2-1" source="GQUcn70LjJXgAh3absY2-9" target="GQUcn70LjJXgAh3absY2-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQUcn70LjJXgAh3absY2-9" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;PROCESSAMENTO&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br&gt;PUT&lt;br&gt;/multichannel-integration-api-ms/processmentset-finish&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="GQUcn70LjJXgAh3absY2-1">
+          <mxGeometry x="460" y="280" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="GQUcn70LjJXgAh3absY2-11" value="ProcessmentSet_01&lt;br&gt;status: WAITING_FOR_APPROVAL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="GQUcn70LjJXgAh3absY2-1">
+          <mxGeometry x="150" y="470" width="170" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="oU0iWQzr5KaDTFYzOZrS" name="Aprovacao da Mailing">
+    <mxGraphModel dx="2189" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="swWZCLb52CxA8wRF-SAj-1" value="Mailing.csv&lt;br&gt;status: WAITING_FOR_APPROVAL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="140" y="280" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="swWZCLb52CxA8wRF-SAj-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="swWZCLb52CxA8wRF-SAj-2" target="swWZCLb52CxA8wRF-SAj-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="swWZCLb52CxA8wRF-SAj-2" value="ProcessmentSet_01&lt;br&gt;status: WAITING_FOR_APPROVAL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="140" y="400" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6BVzJEjFe2gdti-KVXsF-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6BVzJEjFe2gdti-KVXsF-1" target="6BVzJEjFe2gdti-KVXsF-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6BVzJEjFe2gdti-KVXsF-1" value="DC" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="550" y="90" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6BVzJEjFe2gdti-KVXsF-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="6BVzJEjFe2gdti-KVXsF-2" target="swWZCLb52CxA8wRF-SAj-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6BVzJEjFe2gdti-KVXsF-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6BVzJEjFe2gdti-KVXsF-2" target="6BVzJEjFe2gdti-KVXsF-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6BVzJEjFe2gdti-KVXsF-2" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;NMC&lt;br&gt;&lt;br&gt;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;/multichannel-data-api-ms/mailing/{id}/approved?date=2023-05-04T10:10:000.000&lt;/p&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="470" y="280" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6BVzJEjFe2gdti-KVXsF-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6BVzJEjFe2gdti-KVXsF-6" target="6BVzJEjFe2gdti-KVXsF-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6BVzJEjFe2gdti-KVXsF-6" value="Mailing.csv&lt;br&gt;status: FINISHED" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="480" y="450" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WEFhg4AZHNNKqGnAUO3a-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6BVzJEjFe2gdti-KVXsF-7" target="WEFhg4AZHNNKqGnAUO3a-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6BVzJEjFe2gdti-KVXsF-7" value="ProcessmentSet_01&lt;br&gt;status: FINISHED" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="480" y="600" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WEFhg4AZHNNKqGnAUO3a-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WEFhg4AZHNNKqGnAUO3a-1" target="WEFhg4AZHNNKqGnAUO3a-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEFhg4AZHNNKqGnAUO3a-1" value="Comunicações dos outros pacotes serão enviadas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="600" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WEFhg4AZHNNKqGnAUO3a-2" value="DC Comunicado que as comunicações foram enviadas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="710" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WEFhg4AZHNNKqGnAUO3a-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WEFhg4AZHNNKqGnAUO3a-5" target="swWZCLb52CxA8wRF-SAj-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="25" y="380" />
+              <mxPoint x="225" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WEFhg4AZHNNKqGnAUO3a-5" value="ProcessmentSet_02&lt;br&gt;validation: true&lt;br&gt;status: FINISHED" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="400" width="170" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
