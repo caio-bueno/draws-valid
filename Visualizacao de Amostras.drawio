@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-13T13:57:50.051Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="vVgwArOXOF2E4ElgNd6h" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-13T13:59:04.978Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="LlCALxehIU6SvVmemtSw" version="21.6.1" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="1362" dy="1907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -83,16 +83,11 @@
             <mxPoint x="955" y="-60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6pnpnZj5_CFDP3D-8ya7-9" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="-210" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="6pnpnZj5_CFDP3D-8ya7-11" value="devolve os dados da mailing" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;exitX=0.3;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="6pnpnZj5_CFDP3D-8ya7-2">
+        <mxCell id="6pnpnZj5_CFDP3D-8ya7-11" value="devolve os dados da mailing" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="730" y="-41" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="835" y="-41" />
-            </Array>
-            <mxPoint x="950" y="-41" as="sourcePoint" />
+            <mxPoint x="730" y="-42" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="950" y="-42" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6pnpnZj5_CFDP3D-8ya7-16" value="Sistema do Cliente" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
