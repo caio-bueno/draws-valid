@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-21T14:08:22.428Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="IglDo5W8hnIWCUaX4EYi" version="21.7.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-09-21T14:08:52.385Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="0oj97C7sllTVD_eDihDQ" version="21.7.5" type="github" pages="6">
   <diagram id="YxFvI_uIcB84SnNnGRw-" name="Atual">
     <mxGraphModel dx="1362" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -452,7 +452,7 @@
             <mxPoint x="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VnQ0QlqO2ayXRhFk0I9R-14" value="&lt;b&gt;Cycle&lt;/b&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;status&lt;br&gt;&lt;/td&gt;&lt;td&gt;await_approval&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;APPROVED&lt;/td&gt;&lt;td&gt;true&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="VnQ0QlqO2ayXRhFk0I9R-14" value="&lt;b&gt;Cycle&lt;/b&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;status&lt;br&gt;&lt;/td&gt;&lt;td&gt;await_approval&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACTIVE&lt;/td&gt;&lt;td&gt;true&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry y="386" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VnQ0QlqO2ayXRhFk0I9R-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VnQ0QlqO2ayXRhFk0I9R-15" target="weLCa8_vjJGODm2FHEnc-6" edge="1">
