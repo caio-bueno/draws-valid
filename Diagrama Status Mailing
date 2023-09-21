@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-21T13:02:54.637Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="5AHr00_In-7C1q-WWo-M" version="21.7.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-09-21T14:08:22.428Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="IglDo5W8hnIWCUaX4EYi" version="21.7.5" type="github" pages="6">
   <diagram id="YxFvI_uIcB84SnNnGRw-" name="Atual">
     <mxGraphModel dx="1362" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -494,8 +494,8 @@
         <mxCell id="VnQ0QlqO2ayXRhFk0I9R-34" value="SE ENTRAR UMA NOVA MAILING DEPOIS DO CICLO APROVADO, A MAILING ENTRA DIRETO COM O STATUS &quot;FINISHED&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="340" y="483" width="210" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="N6flVjqh0RMczI-CYnoW-3" value="&lt;b&gt;DÚVIDAS&lt;/b&gt;&lt;br&gt;Aprovar o ciclo inteiro? Uma vez aprovado, o ciclo não volta mais pra status &quot;Aguardando Validação&quot;&lt;br&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;O que acontece quando aprovar só alguns &lt;br&gt;templates?&lt;br&gt;&lt;br&gt;O usuário não vai ter como consultar as &quot;amostras&quot; ?&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-520" y="520" width="410" height="130" as="geometry" />
+        <mxCell id="N6flVjqh0RMczI-CYnoW-3" value="&lt;b&gt;DÚVIDAS&lt;/b&gt;&lt;br&gt;Aprovar o ciclo inteiro, permitir a volta de status? &lt;br&gt;Uma vez aprovado, o ciclo não volta mais pra status &quot;Aguardando Validação&quot;&lt;br&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;O que acontece quando aprovar só alguns &lt;br&gt;templates?&lt;br&gt;Não manda nada&lt;br&gt;&lt;br&gt;O usuário não vai ter como consultar as &quot;amostras&quot; ?&lt;br&gt;No DC não" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="520" width="410" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
