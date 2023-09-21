@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-21T12:34:14.018Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="3Y3iPugz-j5LJyc1Jn5p" version="21.7.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-09-21T12:54:44.246Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="mHWTbn4Z8BmuAzT13xE5" version="21.7.5" type="github" pages="6">
   <diagram id="YxFvI_uIcB84SnNnGRw-" name="Atual">
     <mxGraphModel dx="1362" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -395,6 +395,9 @@
         <mxCell id="VnQ0QlqO2ayXRhFk0I9R-1" value="&lt;b&gt;Cycle&lt;/b&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;status&lt;br&gt;&lt;/td&gt;&lt;td&gt;await_approval&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;WAITING_FOR_APPROVAL&lt;/td&gt;&lt;td&gt;true&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-40" y="100" width="280" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="VnQ0QlqO2ayXRhFk0I9R-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VnQ0QlqO2ayXRhFk0I9R-2" target="VnQ0QlqO2ayXRhFk0I9R-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VnQ0QlqO2ayXRhFk0I9R-2" value="&lt;b&gt;Mailing&lt;/b&gt;&lt;br&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;status&lt;/td&gt;&lt;td&gt;await_approval&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FINISHED&lt;/td&gt;&lt;td&gt;true&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="310" y="386" width="270" height="60" as="geometry" />
         </mxCell>
@@ -475,6 +478,21 @@
         </mxCell>
         <mxCell id="VnQ0QlqO2ayXRhFk0I9R-25" value="&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;{&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&amp;nbsp; &quot;mailing&quot;:{&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;cycle&quot;:{&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;name&quot;:&quot;20220904 - D1&quot;,&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;brandId&quot;:80,&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;b&gt;&quot;awaitApproval&quot;: true&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp; },&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;name&quot;:&quot;PAN_UA_FAT_E_PF1_UA435_121.20220904030231&quot;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&amp;nbsp; },&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&amp;nbsp; &quot;processmentSet&quot;:{&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;name&quot;:&quot;PAN_UA_FAT_E_PF1_UA435_121.2022090403023101&quot;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&amp;nbsp; }&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;}&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-510" y="30" width="380" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="VnQ0QlqO2ayXRhFk0I9R-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VnQ0QlqO2ayXRhFk0I9R-27" target="VnQ0QlqO2ayXRhFk0I9R-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VnQ0QlqO2ayXRhFk0I9R-27" value="Usuário aprovador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-443" y="386" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VnQ0QlqO2ayXRhFk0I9R-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VnQ0QlqO2ayXRhFk0I9R-30" target="VnQ0QlqO2ayXRhFk0I9R-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VnQ0QlqO2ayXRhFk0I9R-30" value="Data-API" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="376" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VnQ0QlqO2ayXRhFk0I9R-34" value="SE ENTRAR UMA NOVA MAILING DEPOIS DO CICLO APROVADO, ENTRA DIRETO COM O STATUS &quot;FINISHED&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="370" y="483" width="150" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
