@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-21T14:35:58.118Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="IPoVrc-WsayMR2JsRxS3" version="21.7.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-09-21T20:04:31.795Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="oLHUSEp-DEHrcsyU18uW" version="21.7.5" type="github" pages="6">
   <diagram id="YxFvI_uIcB84SnNnGRw-" name="Atual">
     <mxGraphModel dx="1362" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -494,14 +494,14 @@
         <mxCell id="VnQ0QlqO2ayXRhFk0I9R-34" value="SE ENTRAR UMA NOVA MAILING DEPOIS DO CICLO APROVADO, A MAILING ENTRA DIRETO COM O STATUS &quot;FINISHED&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="340" y="483" width="210" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="N6flVjqh0RMczI-CYnoW-3" value="&lt;b&gt;DÚVIDAS&lt;/b&gt;&lt;br&gt;Aprovar o ciclo inteiro, permitir a volta de status? &lt;br&gt;Uma vez aprovado, o ciclo não volta mais pra status &quot;Aguardando Validação&quot;&lt;br&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;O que acontece quando aprovar só alguns &lt;br&gt;templates?&lt;br&gt;Não manda nada&lt;br&gt;&lt;br&gt;O usuário não vai ter como consultar as &quot;amostras&quot; ?&lt;br&gt;No DC não" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-520" y="520" width="410" height="190" as="geometry" />
-        </mxCell>
         <mxCell id="N6flVjqh0RMczI-CYnoW-4" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="380" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="N6flVjqh0RMczI-CYnoW-5" value="&lt;ol&gt;&lt;li&gt;criar novo campo &quot;await_approval&quot; para Cycle - (banco, data-api, integration-api)&lt;/li&gt;&lt;li&gt;quando criar a mailing, já olhar o &quot;await_approval&quot; do cycle, e&amp;nbsp; atualiza o &quot;await_approval&quot; da mailing conforme o campo &quot;await_approval&quot; do cycle&lt;/li&gt;&lt;li&gt;quando finalizar a mailing, verificar o campo &quot;await_approval&quot; também do ciclo&lt;/li&gt;&lt;li&gt;criar endpoint para aprovar o ciclo&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-70" y="600" width="440" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="N6flVjqh0RMczI-CYnoW-6" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;DÚVIDAS&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/b&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;P. Aprovar o ciclo inteiro, permitir a volta de status?&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;R. Uma vez aprovado, o ciclo não volta mais pra status &quot;Aguardando Validação&quot;&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;P. O que acontece quando aprovar só alguns&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;templates?&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;R. Não manda nada&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;P. O usuário não vai ter como consultar as &quot;amostras&quot; ?&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;R. No DC não&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-530" y="530" width="430" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
