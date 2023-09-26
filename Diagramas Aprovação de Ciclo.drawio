@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-26T14:44:47.987Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="GlLLxoQe-Hl7ET2bzRt-" version="21.8.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-09-26T15:14:17.005Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="pQ5OdEM7GntEyO_kKEwi" version="21.8.0" type="github" pages="3">
   <diagram id="71OG-30ABKDaulisGDoo" name="Sequencia Aprovação de Ciclo">
     <mxGraphModel dx="2429" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -309,7 +309,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2mEJLCsLMh-yi96EZ9jM" name="Cenário Ciclo Aprovado">
-    <mxGraphModel dx="3116" dy="1107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2712" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -445,7 +445,7 @@
           <mxGeometry x="840" y="700" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OV7E3aPPSTSt9_KhZe1F-39" value="&lt;b&gt;Mailing&lt;/b&gt;&lt;br&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;status&lt;/td&gt;&lt;td&gt;await_approval&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FINISHED&lt;/td&gt;&lt;td&gt;true&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="870" y="1000" width="260" height="60" as="geometry" />
+          <mxGeometry x="870" y="1000" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OV7E3aPPSTSt9_KhZe1F-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OV7E3aPPSTSt9_KhZe1F-41" target="OV7E3aPPSTSt9_KhZe1F-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
