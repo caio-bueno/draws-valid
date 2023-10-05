@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-05T13:46:46.849Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="7cGyax3MsNRlWlJBbae8" version="22.0.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-10-05T13:49:52.238Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="AfVUpBnQ9nWKj5F637ac" version="22.0.2" type="github" pages="4">
   <diagram id="71OG-30ABKDaulisGDoo" name="Sequencia Aprovação de Ciclo">
-    <mxGraphModel dx="2429" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3116" dy="1020" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -131,7 +131,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WtpHI7r_ZESBK9xusWfh-31" value="AGUARDANDO APROVAÇÃO PARA ENVIAR AS COMUNICAÇÕES" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="920" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="890" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WtpHI7r_ZESBK9xusWfh-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WtpHI7r_ZESBK9xusWfh-33" target="WtpHI7r_ZESBK9xusWfh-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -144,12 +144,6 @@
         </mxCell>
         <mxCell id="WtpHI7r_ZESBK9xusWfh-35" value="CICLO AGUARDANDO APROVAÇÃO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-90" y="50" width="220" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="WtpHI7r_ZESBK9xusWfh-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WtpHI7r_ZESBK9xusWfh-37" target="WtpHI7r_ZESBK9xusWfh-15" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="WtpHI7r_ZESBK9xusWfh-37" value="&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;{&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&amp;nbsp; &quot;mailing&quot;:{&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;cycle&quot;:{&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;name&quot;:&quot;20230921&quot;,&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;brandId&quot;:19,&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;b&gt;&quot;awaitApproval&quot;: true&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp; },&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;name&quot;:&quot;Maling_name15092023114411211.txt&quot;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&amp;nbsp; },&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&amp;nbsp; &quot;processmentSet&quot;:{&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;name&quot;:&quot;ProcessmentSetname15092023114411211_1.txt&quot;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&amp;nbsp; }&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;}&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-480" y="30" width="360" height="200" as="geometry" />
         </mxCell>
         <mxCell id="WtpHI7r_ZESBK9xusWfh-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WtpHI7r_ZESBK9xusWfh-39" target="WtpHI7r_ZESBK9xusWfh-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -171,6 +165,30 @@
         </mxCell>
         <mxCell id="WtpHI7r_ZESBK9xusWfh-45" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;DÚVIDAS&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/b&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;P. Aprovar o ciclo inteiro, permitir a volta de status?&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;R. Uma vez aprovado, o ciclo não volta mais pra status &quot;Aguardando Validação&quot;&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;P. O que acontece quando aprovar só alguns&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;templates?&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;R. Não manda nada&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;P. O usuário não vai ter como consultar as &quot;amostras&quot; ?&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;R. No DC não&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="-530" y="530" width="430" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="jwLcWNBceexQ_s0xpqMq-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jwLcWNBceexQ_s0xpqMq-2" target="jwLcWNBceexQ_s0xpqMq-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jwLcWNBceexQ_s0xpqMq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jwLcWNBceexQ_s0xpqMq-2" target="jwLcWNBceexQ_s0xpqMq-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jwLcWNBceexQ_s0xpqMq-2" value="Amostras do ciclo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-660" y="90" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jwLcWNBceexQ_s0xpqMq-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jwLcWNBceexQ_s0xpqMq-3" target="WtpHI7r_ZESBK9xusWfh-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jwLcWNBceexQ_s0xpqMq-3" value="&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;{&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp; &amp;nbsp;&quot;cycle&quot;:{&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;name&quot;:&quot;20230921&quot;,&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;brandId&quot;:19&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp; &amp;nbsp;},&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp; &amp;nbsp;&quot;attachments&quot;:[&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; {&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&quot;name&quot;:&quot;amostras_template01&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;description&quot;:&quot;Amostras template01&quot;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;},&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; {&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&quot;name&quot;:&quot;amostras_template02&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&quot;description&quot;:&quot;Amostras template02&quot;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;},&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; {&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&quot;name&quot;:&quot;amostras_template03&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&quot;description&quot;:&quot;Amostras template03&quot;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp; &amp;nbsp;]&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;}&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-470" y="22.5" width="330" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="jwLcWNBceexQ_s0xpqMq-4" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Files.svg;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="173.13" width="40" height="43.75" as="geometry" />
+        </mxCell>
+        <mxCell id="jwLcWNBceexQ_s0xpqMq-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jwLcWNBceexQ_s0xpqMq-7" target="jwLcWNBceexQ_s0xpqMq-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jwLcWNBceexQ_s0xpqMq-7" value="SCP" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="100" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
