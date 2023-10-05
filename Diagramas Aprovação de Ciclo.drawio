@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-04T23:01:00.933Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="sAThMDr9pILBLc37ttpo" version="22.0.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-10-05T13:46:46.849Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="7cGyax3MsNRlWlJBbae8" version="22.0.2" type="github" pages="4">
   <diagram id="71OG-30ABKDaulisGDoo" name="Sequencia Aprovação de Ciclo">
-    <mxGraphModel dx="2429" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2429" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -169,9 +169,6 @@
         <mxCell id="WtpHI7r_ZESBK9xusWfh-43" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="230" y="380" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WtpHI7r_ZESBK9xusWfh-44" value="&lt;ol&gt;&lt;li&gt;criar novo campo &quot;await_approval&quot; para Cycle - (banco, data-api, integration-api)&lt;/li&gt;&lt;li&gt;quando criar a mailing, já olhar o &quot;await_approval&quot; do cycle, e&amp;nbsp; atualiza o &quot;await_approval&quot; da mailing conforme o campo &quot;await_approval&quot; do cycle&lt;/li&gt;&lt;li&gt;quando finalizar a mailing, verificar o campo &quot;await_approval&quot; também do ciclo&lt;/li&gt;&lt;li&gt;criar endpoint para aprovar o ciclo&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-70" y="600" width="440" height="150" as="geometry" />
-        </mxCell>
         <mxCell id="WtpHI7r_ZESBK9xusWfh-45" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;DÚVIDAS&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/b&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;P. Aprovar o ciclo inteiro, permitir a volta de status?&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;R. Uma vez aprovado, o ciclo não volta mais pra status &quot;Aguardando Validação&quot;&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;P. O que acontece quando aprovar só alguns&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;templates?&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;R. Não manda nada&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;P. O usuário não vai ter como consultar as &quot;amostras&quot; ?&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;R. No DC não&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="-530" y="530" width="430" height="200" as="geometry" />
         </mxCell>
@@ -179,7 +176,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0hzNqZ-0HKCYOSR2Ivjf" name="Cenário Ciclo Aguardando Aprovação">
-    <mxGraphModel dx="2429" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2429" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -404,17 +401,17 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2mEJLCsLMh-yi96EZ9jM" name="Cenário Ciclo Aprovado">
-    <mxGraphModel dx="2429" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2429" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="j-M6mKfT3J-vTbmhicmd-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+        <mxCell id="j-M6mKfT3J-vTbmhicmd-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
           <mxGeometry x="-330" y="650" width="1450" height="430" as="geometry" />
         </mxCell>
-        <mxCell id="drWo5inge1y1y5oIOu0V-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="drWo5inge1y1y5oIOu0V-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-330" y="290" width="1450" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="6DJ-iMOty9pX6qUdLrJB-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="6DJ-iMOty9pX6qUdLrJB-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="-330" y="50" width="1450" height="240" as="geometry" />
         </mxCell>
         <mxCell id="OV7E3aPPSTSt9_KhZe1F-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OV7E3aPPSTSt9_KhZe1F-2" target="OV7E3aPPSTSt9_KhZe1F-21" edge="1">
@@ -561,68 +558,68 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Notificações para Lista de Aprovadores Abordagem Kafka" id="0r1IOSU8-viD9m5p085L">
-    <mxGraphModel dx="1602" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1602" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="RU653SfCOMTX8gNQOs-m-0" />
         <mxCell id="RU653SfCOMTX8gNQOs-m-1" parent="RU653SfCOMTX8gNQOs-m-0" />
-        <mxCell id="RU653SfCOMTX8gNQOs-m-2" value="SCP" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="RU653SfCOMTX8gNQOs-m-1">
+        <mxCell id="RU653SfCOMTX8gNQOs-m-2" value="SCP" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="RU653SfCOMTX8gNQOs-m-1" vertex="1">
           <mxGeometry x="110" y="200" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RU653SfCOMTX8gNQOs-m-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RU653SfCOMTX8gNQOs-m-1" source="RU653SfCOMTX8gNQOs-m-2" target="RU653SfCOMTX8gNQOs-m-7">
+        <mxCell id="RU653SfCOMTX8gNQOs-m-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="RU653SfCOMTX8gNQOs-m-1" source="RU653SfCOMTX8gNQOs-m-2" target="RU653SfCOMTX8gNQOs-m-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="310" y="240" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EBToT4pqiQOrfehGCony-14" value="1. SCP informa que o ciclo &lt;br&gt;está aguardando informação" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RU653SfCOMTX8gNQOs-m-3">
+        <mxCell id="EBToT4pqiQOrfehGCony-14" value="1. SCP informa que o ciclo &lt;br&gt;está aguardando informação" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="RU653SfCOMTX8gNQOs-m-3" vertex="1" connectable="0">
           <mxGeometry x="-0.4107" y="-1" relative="1" as="geometry">
             <mxPoint x="44" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RU653SfCOMTX8gNQOs-m-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RU653SfCOMTX8gNQOs-m-1" source="RU653SfCOMTX8gNQOs-m-7" target="RU653SfCOMTX8gNQOs-m-10">
+        <mxCell id="RU653SfCOMTX8gNQOs-m-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="RU653SfCOMTX8gNQOs-m-1" source="RU653SfCOMTX8gNQOs-m-7" target="RU653SfCOMTX8gNQOs-m-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EBToT4pqiQOrfehGCony-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RU653SfCOMTX8gNQOs-m-1" source="RU653SfCOMTX8gNQOs-m-7" target="EBToT4pqiQOrfehGCony-0">
+        <mxCell id="EBToT4pqiQOrfehGCony-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="RU653SfCOMTX8gNQOs-m-1" source="RU653SfCOMTX8gNQOs-m-7" target="EBToT4pqiQOrfehGCony-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RU653SfCOMTX8gNQOs-m-7" value="Data API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="RU653SfCOMTX8gNQOs-m-1">
+        <mxCell id="RU653SfCOMTX8gNQOs-m-7" value="Data API" style="rounded=1;whiteSpace=wrap;html=1;" parent="RU653SfCOMTX8gNQOs-m-1" vertex="1">
           <mxGeometry x="354" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RU653SfCOMTX8gNQOs-m-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RU653SfCOMTX8gNQOs-m-1" source="RU653SfCOMTX8gNQOs-m-9" target="RU653SfCOMTX8gNQOs-m-12">
+        <mxCell id="RU653SfCOMTX8gNQOs-m-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="RU653SfCOMTX8gNQOs-m-1" source="RU653SfCOMTX8gNQOs-m-9" target="RU653SfCOMTX8gNQOs-m-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RU653SfCOMTX8gNQOs-m-9" value="DC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="RU653SfCOMTX8gNQOs-m-1">
+        <mxCell id="RU653SfCOMTX8gNQOs-m-9" value="DC" style="rounded=1;whiteSpace=wrap;html=1;" parent="RU653SfCOMTX8gNQOs-m-1" vertex="1">
           <mxGeometry x="1175" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RU653SfCOMTX8gNQOs-m-10" value="Banco NMC" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="RU653SfCOMTX8gNQOs-m-1">
+        <mxCell id="RU653SfCOMTX8gNQOs-m-10" value="Banco NMC" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="RU653SfCOMTX8gNQOs-m-1" vertex="1">
           <mxGeometry x="384" y="310" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="RU653SfCOMTX8gNQOs-m-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RU653SfCOMTX8gNQOs-m-1" source="RU653SfCOMTX8gNQOs-m-12" target="RU653SfCOMTX8gNQOs-m-13">
+        <mxCell id="RU653SfCOMTX8gNQOs-m-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="RU653SfCOMTX8gNQOs-m-1" source="RU653SfCOMTX8gNQOs-m-12" target="RU653SfCOMTX8gNQOs-m-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RU653SfCOMTX8gNQOs-m-12" value="Banco&lt;br&gt;&amp;nbsp;DC" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="RU653SfCOMTX8gNQOs-m-1">
+        <mxCell id="RU653SfCOMTX8gNQOs-m-12" value="Banco&lt;br&gt;&amp;nbsp;DC" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="RU653SfCOMTX8gNQOs-m-1" vertex="1">
           <mxGeometry x="1205" y="170" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="RU653SfCOMTX8gNQOs-m-13" value="&lt;p&gt;Aqui contem a lista de usuários aprovadores e qual o canal de notificação&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="RU653SfCOMTX8gNQOs-m-1">
+        <mxCell id="RU653SfCOMTX8gNQOs-m-13" value="&lt;p&gt;Aqui contem a lista de usuários aprovadores e qual o canal de notificação&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="RU653SfCOMTX8gNQOs-m-1" vertex="1">
           <mxGeometry x="1140" y="290" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RU653SfCOMTX8gNQOs-m-16" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Contras:&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;NMC precisa saber o companyId e o brandId&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;tanto no &quot;Aguardando aprovação&quot; e também quando aprovar o ciclo&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Precisa do valor do companyId&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;TODO: Verificar se pode ignorar o companyId e enviar somente brandId e applicationId&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="RU653SfCOMTX8gNQOs-m-1">
+        <mxCell id="RU653SfCOMTX8gNQOs-m-16" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Contras:&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;NMC precisa saber o companyId e o brandId&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;tanto no &quot;Aguardando aprovação&quot; e também quando aprovar o ciclo&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Precisa do valor do companyId&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;TODO: Verificar se pode ignorar o companyId e enviar somente brandId e applicationId&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="RU653SfCOMTX8gNQOs-m-1" vertex="1">
           <mxGeometry x="35" y="510" width="520" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="EBToT4pqiQOrfehGCony-0" value="Kafka NMC" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="RU653SfCOMTX8gNQOs-m-1">
+        <mxCell id="EBToT4pqiQOrfehGCony-0" value="Kafka NMC" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="RU653SfCOMTX8gNQOs-m-1" vertex="1">
           <mxGeometry x="540" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EBToT4pqiQOrfehGCony-2" value="2. NMC envia que o ciclo está aguardando aprovação" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="RU653SfCOMTX8gNQOs-m-1">
+        <mxCell id="EBToT4pqiQOrfehGCony-2" value="2. NMC envia que o ciclo está aguardando aprovação" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="RU653SfCOMTX8gNQOs-m-1" vertex="1">
           <mxGeometry x="390" y="160" width="310" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EBToT4pqiQOrfehGCony-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RU653SfCOMTX8gNQOs-m-1" source="EBToT4pqiQOrfehGCony-4" target="RU653SfCOMTX8gNQOs-m-9">
+        <mxCell id="EBToT4pqiQOrfehGCony-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="RU653SfCOMTX8gNQOs-m-1" source="EBToT4pqiQOrfehGCony-4" target="RU653SfCOMTX8gNQOs-m-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EBToT4pqiQOrfehGCony-7" value="4. consulta os usuários aprovadores &lt;br&gt;&lt;br&gt;informando brandId e applicationId" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EBToT4pqiQOrfehGCony-6">
+        <mxCell id="EBToT4pqiQOrfehGCony-7" value="4. consulta os usuários aprovadores &lt;br&gt;&lt;br&gt;informando brandId e applicationId" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="EBToT4pqiQOrfehGCony-6" vertex="1" connectable="0">
           <mxGeometry x="-0.0857" y="4" relative="1" as="geometry">
             <mxPoint x="-4" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EBToT4pqiQOrfehGCony-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RU653SfCOMTX8gNQOs-m-1" source="EBToT4pqiQOrfehGCony-4" target="EBToT4pqiQOrfehGCony-0">
+        <mxCell id="EBToT4pqiQOrfehGCony-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="RU653SfCOMTX8gNQOs-m-1" source="EBToT4pqiQOrfehGCony-4" target="EBToT4pqiQOrfehGCony-0" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="810" y="30" />
@@ -630,24 +627,24 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EBToT4pqiQOrfehGCony-12" value="3. modulo recebe a informação de &lt;br&gt;que o ciclo está aguardando aprovação" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EBToT4pqiQOrfehGCony-11">
+        <mxCell id="EBToT4pqiQOrfehGCony-12" value="3. modulo recebe a informação de &lt;br&gt;que o ciclo está aguardando aprovação" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="EBToT4pqiQOrfehGCony-11" vertex="1" connectable="0">
           <mxGeometry x="0.0516" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EBToT4pqiQOrfehGCony-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RU653SfCOMTX8gNQOs-m-1" source="EBToT4pqiQOrfehGCony-4" target="EBToT4pqiQOrfehGCony-0">
+        <mxCell id="EBToT4pqiQOrfehGCony-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="RU653SfCOMTX8gNQOs-m-1" source="EBToT4pqiQOrfehGCony-4" target="EBToT4pqiQOrfehGCony-0" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="880" y="130" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EBToT4pqiQOrfehGCony-18" value="5. Devolve pro Kafka quais as notificações devem ser enviadas&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;socketlabs-email-to-send&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;infobip-sms-to-send&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;infobip-rcs-to-send&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;botmaker-whatsapp-to-send" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EBToT4pqiQOrfehGCony-17">
+        <mxCell id="EBToT4pqiQOrfehGCony-18" value="5. Devolve pro Kafka quais as notificações devem ser enviadas&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;socketlabs-email-to-send&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;infobip-sms-to-send&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;infobip-rcs-to-send&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;botmaker-whatsapp-to-send" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="EBToT4pqiQOrfehGCony-17" vertex="1" connectable="0">
           <mxGeometry x="-0.0217" y="3" relative="1" as="geometry">
             <mxPoint x="94" y="37" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EBToT4pqiQOrfehGCony-4" value="Novo módulo&lt;br&gt;(multichannel-integration-cycle-event-consumer)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="RU653SfCOMTX8gNQOs-m-1">
+        <mxCell id="EBToT4pqiQOrfehGCony-4" value="Novo módulo&lt;br&gt;(multichannel-integration-cycle-event-consumer)" style="rounded=1;whiteSpace=wrap;html=1;" parent="RU653SfCOMTX8gNQOs-m-1" vertex="1">
           <mxGeometry x="827" y="10" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
