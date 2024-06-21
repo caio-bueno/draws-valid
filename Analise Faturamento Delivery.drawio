@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-21T21:14:44.116Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="PCvINl4Gys9OIBQS-Cgb" version="24.6.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-06-21T21:17:27.378Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="CwiD0NhnocMlMw_wQ1BZ" version="24.6.1" type="github" pages="2">
   <diagram name="Página-1" id="KlFsrTANyu7S7hrlBVsg">
     <mxGraphModel dx="2429" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,15 +13,45 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kk2GmEQjzmpcDeLucGSl" name="Página-2">
-    <mxGraphModel dx="1602" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1602" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="WK-YbPTLO2Yf3RR5unZr-1" value="Faixa&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="140" width="120" height="60" as="geometry" />
+        <mxCell id="WK-YbPTLO2Yf3RR5unZr-1" value="Faixa&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Canal&lt;/div&gt;&lt;div&gt;inicio&lt;/div&gt;&lt;div&gt;fim&lt;/div&gt;&lt;div&gt;precoUnitario&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="160" width="120" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="WK-YbPTLO2Yf3RR5unZr-2" value="Faixa" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="300" width="120" height="60" as="geometry" />
+        <mxCell id="WK-YbPTLO2Yf3RR5unZr-2" value="Comunicação&lt;div&gt;Canal&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PreqIxF1p03WurzCcYcy-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PreqIxF1p03WurzCcYcy-1" target="WK-YbPTLO2Yf3RR5unZr-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PreqIxF1p03WurzCcYcy-1" value="Mailing&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Empresa&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PreqIxF1p03WurzCcYcy-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PreqIxF1p03WurzCcYcy-3" target="WK-YbPTLO2Yf3RR5unZr-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PreqIxF1p03WurzCcYcy-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PreqIxF1p03WurzCcYcy-3" target="PreqIxF1p03WurzCcYcy-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PreqIxF1p03WurzCcYcy-3" value="Empresa" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PreqIxF1p03WurzCcYcy-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PreqIxF1p03WurzCcYcy-6" target="WK-YbPTLO2Yf3RR5unZr-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PreqIxF1p03WurzCcYcy-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PreqIxF1p03WurzCcYcy-6" target="PreqIxF1p03WurzCcYcy-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PreqIxF1p03WurzCcYcy-6" value="Cobrança&lt;div&gt;&lt;br&gt;&lt;div&gt;PeriodoInicio&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Periodo&lt;/span&gt;Fim&lt;/div&gt;&lt;div&gt;PrecoTotal&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="380" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="PreqIxF1p03WurzCcYcy-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="PreqIxF1p03WurzCcYcy-9" target="WK-YbPTLO2Yf3RR5unZr-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PreqIxF1p03WurzCcYcy-9" value="ItemCobrança&lt;div&gt;&lt;br&gt;&lt;div&gt;Canal&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Qtd&lt;/div&gt;&lt;div&gt;ValorUnitario&lt;/div&gt;&lt;div&gt;ValorFinal&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="550" width="120" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
