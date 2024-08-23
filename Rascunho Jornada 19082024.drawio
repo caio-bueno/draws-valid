@@ -56,7 +56,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Pagina 2 (Melhor abordagem)" id="VXuWUL2yGcDtwbf4Dsa4">
-    <mxGraphModel dx="880" dy="1603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="1915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0WqUE92R7AFNMETAE00i-0" />
         <mxCell id="0WqUE92R7AFNMETAE00i-1" parent="0WqUE92R7AFNMETAE00i-0" />
@@ -135,8 +135,8 @@
         <mxCell id="l8Q-LaTnv4OPUKChSPCP-7" value="Sim" style="rounded=0;whiteSpace=wrap;html=1;" parent="0WqUE92R7AFNMETAE00i-1" vertex="1">
           <mxGeometry x="520" y="270" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NtmYjmjIxJJ_vfC1xqqk-0" value="1. Criar cadastro de campos obrigatorios Jornada&lt;div&gt;2. Alterar o cadastro de jornada permitir conditionCard em sequencia&lt;/div&gt;&lt;div&gt;3. Alterar o modulo do NMC para permitir o ConditionCard em sequencia&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Criar o condition card &quot;Verificar Regra de Negocio&quot;&lt;/div&gt;&lt;div&gt;5. Alterar os modulos de jornada para fazer essa verificação&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="0WqUE92R7AFNMETAE00i-1">
-          <mxGeometry x="10" y="290" width="470" height="110" as="geometry" />
+        <mxCell id="NtmYjmjIxJJ_vfC1xqqk-0" value="1. Criar cadastro de campos obrigatorios Jornada&lt;div&gt;2. Alterar o cadastro de jornada permitir conditionCard em sequencia&lt;/div&gt;&lt;div&gt;3. Alterar o modulo do NMC para permitir o ConditionCard em sequencia&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Criar o condition card &quot;Verificar Regra de Negocio&quot;&lt;/div&gt;&lt;div&gt;5. Alterar os modulos de jornada para fazer essa verificação&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="0WqUE92R7AFNMETAE00i-1" vertex="1">
+          <mxGeometry x="20" y="380" width="470" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
