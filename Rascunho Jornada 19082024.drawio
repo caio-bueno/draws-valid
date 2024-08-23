@@ -78,7 +78,7 @@
         <mxCell id="0WqUE92R7AFNMETAE00i-5" value="&lt;div&gt;Verificar Regra de Negocio&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" parent="0WqUE92R7AFNMETAE00i-1" vertex="1">
           <mxGeometry x="730" y="50" width="250" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="0WqUE92R7AFNMETAE00i-7" value="Enviar Impresso" style="rounded=0;whiteSpace=wrap;html=1;" parent="0WqUE92R7AFNMETAE00i-1" vertex="1">
+        <mxCell id="0WqUE92R7AFNMETAE00i-7" value="Enviar Impresso" style="rounded=1;whiteSpace=wrap;html=1;" parent="0WqUE92R7AFNMETAE00i-1" vertex="1">
           <mxGeometry x="510" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0WqUE92R7AFNMETAE00i-8" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12px; text-align: center;&quot;&gt;brand&lt;/span&gt;" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iComboBox;spacingTop=2;spacingLeft=2;align=left;strokeColor=#444444;fontColor=#666666;buttonText=;fontSize=8;fillColor=#dddddd;fillColor2=#3D5565;sketch=0;whiteSpace=wrap;" parent="0WqUE92R7AFNMETAE00i-1" vertex="1">
@@ -87,7 +87,7 @@
         <mxCell id="l8Q-LaTnv4OPUKChSPCP-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="0WqUE92R7AFNMETAE00i-1" source="0WqUE92R7AFNMETAE00i-9" target="0WqUE92R7AFNMETAE00i-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0WqUE92R7AFNMETAE00i-9" value="Enviar Email" style="rounded=0;whiteSpace=wrap;html=1;" parent="0WqUE92R7AFNMETAE00i-1" vertex="1">
+        <mxCell id="0WqUE92R7AFNMETAE00i-9" value="Enviar Email" style="rounded=1;whiteSpace=wrap;html=1;" parent="0WqUE92R7AFNMETAE00i-1" vertex="1">
           <mxGeometry x="510" y="-174" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0WqUE92R7AFNMETAE00i-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="0WqUE92R7AFNMETAE00i-1" source="0WqUE92R7AFNMETAE00i-11" target="0WqUE92R7AFNMETAE00i-14" edge="1">
