@@ -1,23 +1,29 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Página-1" id="cIBUKw9bJPCPaL0U218F">
-    <mxGraphModel dx="1120" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="5A4_8D4nX78AZujlMm8u-1" value="SCP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5A4_8D4nX78AZujlMm8u-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5A4_8D4nX78AZujlMm8u-2" target="5A4_8D4nX78AZujlMm8u-17">
+        <mxCell id="5A4_8D4nX78AZujlMm8u-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="10" width="630" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="5A4_8D4nX78AZujlMm8u-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5A4_8D4nX78AZujlMm8u-1" target="5A4_8D4nX78AZujlMm8u-2">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5A4_8D4nX78AZujlMm8u-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5A4_8D4nX78AZujlMm8u-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="210.12504545454544" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="5A4_8D4nX78AZujlMm8u-2" value="Producer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5A4_8D4nX78AZujlMm8u-17" value="Kafka" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#E7157B;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.mq_broker;" vertex="1" parent="1">
-          <mxGeometry x="471" y="210" width="78" height="69" as="geometry" />
-        </mxCell>
-        <mxCell id="5A4_8D4nX78AZujlMm8u-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5A4_8D4nX78AZujlMm8u-19" target="5A4_8D4nX78AZujlMm8u-17">
+        <mxCell id="5A4_8D4nX78AZujlMm8u-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5A4_8D4nX78AZujlMm8u-19" target="5A4_8D4nX78AZujlMm8u-29">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="549" y="240" as="targetPoint" />
             <Array as="points">
               <mxPoint x="680" y="240" />
             </Array>
@@ -26,11 +32,23 @@
         <mxCell id="5A4_8D4nX78AZujlMm8u-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5A4_8D4nX78AZujlMm8u-19" target="5A4_8D4nX78AZujlMm8u-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="5A4_8D4nX78AZujlMm8u-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5A4_8D4nX78AZujlMm8u-19" target="5A4_8D4nX78AZujlMm8u-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5A4_8D4nX78AZujlMm8u-19" value="Consumer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5A4_8D4nX78AZujlMm8u-22" value="Google Cloud Storage&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;/attachments-(idCliente)/{idAplicacao}&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Apply LifeCycle&lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Archive_Storage.svg;" vertex="1" parent="1">
+        <mxCell id="5A4_8D4nX78AZujlMm8u-22" value="Google Cloud Storage&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;/attachments-(idCliente)/{idAplicacao}&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Update LifeCycle Policy&lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Archive_Storage.svg;" vertex="1" parent="1">
           <mxGeometry x="840" y="96" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="5A4_8D4nX78AZujlMm8u-26" value="Ref: https://cloud.google.com/sdk/gcloud/reference/storage/buckets/update#--lifecycle-file" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="380" width="500" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5A4_8D4nX78AZujlMm8u-27" value="&lt;div&gt;{ &quot;rule&quot;: [ { &quot;action&quot;: {&quot;type&quot;: &quot;Delete&quot;}, &quot;condition&quot;: {&quot;age&quot;: 365} } ] }&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=default;spacingTop=10;" vertex="1" parent="1">
+          <mxGeometry x="620" y="20" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5A4_8D4nX78AZujlMm8u-29" value="Kafka" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/sql_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="500" y="210" width="38.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
