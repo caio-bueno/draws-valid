@@ -105,7 +105,7 @@
           <mxGeometry x="500" y="300" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XGSOOz6GtM8z8IQ6b6iL-6" value="Kafka" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#E7157B;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.mq_broker;" vertex="1" parent="XGSOOz6GtM8z8IQ6b6iL-1">
-          <mxGeometry x="282" y="335.5" width="78" height="69" as="geometry" />
+          <mxGeometry x="303" y="335.5" width="78" height="69" as="geometry" />
         </mxCell>
         <mxCell id="XGSOOz6GtM8z8IQ6b6iL-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XGSOOz6GtM8z8IQ6b6iL-1" source="XGSOOz6GtM8z8IQ6b6iL-9" target="XGSOOz6GtM8z8IQ6b6iL-6">
           <mxGeometry relative="1" as="geometry" />
@@ -114,7 +114,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XGSOOz6GtM8z8IQ6b6iL-9" value="Integration API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XGSOOz6GtM8z8IQ6b6iL-1">
-          <mxGeometry x="261" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="282" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XGSOOz6GtM8z8IQ6b6iL-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XGSOOz6GtM8z8IQ6b6iL-1" source="XGSOOz6GtM8z8IQ6b6iL-11" target="XGSOOz6GtM8z8IQ6b6iL-15">
           <mxGeometry relative="1" as="geometry" />
@@ -130,6 +130,21 @@
             <Array as="points">
               <mxPoint x="140" y="490" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l9ujikPQvJMTBFyuDTC3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XGSOOz6GtM8z8IQ6b6iL-1" source="XGSOOz6GtM8z8IQ6b6iL-14" target="XGSOOz6GtM8z8IQ6b6iL-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="140" y="290" />
+              <mxPoint x="230" y="290" />
+              <mxPoint x="230" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l9ujikPQvJMTBFyuDTC3-3" value="Validar os dados obrigatorios?" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="l9ujikPQvJMTBFyuDTC3-2">
+          <mxGeometry x="-0.2425" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XGSOOz6GtM8z8IQ6b6iL-14" value="External Communication Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XGSOOz6GtM8z8IQ6b6iL-1">
