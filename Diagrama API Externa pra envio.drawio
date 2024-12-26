@@ -132,6 +132,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="l9ujikPQvJMTBFyuDTC3-4" value="envia o anexo?" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XGSOOz6GtM8z8IQ6b6iL-13">
+          <mxGeometry x="-0.1724" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="l9ujikPQvJMTBFyuDTC3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XGSOOz6GtM8z8IQ6b6iL-1" source="XGSOOz6GtM8z8IQ6b6iL-14" target="XGSOOz6GtM8z8IQ6b6iL-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240" y="200" as="targetPoint" />
