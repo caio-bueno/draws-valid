@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="24.8.3" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="24.8.3" pages="3">
   <diagram name="File Uploader" id="ymEAqE3_uLRL42T4I7OA">
     <mxGraphModel dx="2429" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -197,6 +197,74 @@
         </mxCell>
         <mxCell id="l9ujikPQvJMTBFyuDTC3-0" value="Attachment Manager" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XGSOOz6GtM8z8IQ6b6iL-1">
           <mxGeometry x="282" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Template" id="qbYC78fr6Dl9qPiWB5jK">
+    <mxGraphModel dx="2429" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="HpsAoNqbEirltU0CH5FJ-0" />
+        <mxCell id="HpsAoNqbEirltU0CH5FJ-1" parent="HpsAoNqbEirltU0CH5FJ-0" />
+        <mxCell id="HpsAoNqbEirltU0CH5FJ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HpsAoNqbEirltU0CH5FJ-1" source="HpsAoNqbEirltU0CH5FJ-9" target="rA7OSXRcpBrXkKuMklEF-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="354" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HpsAoNqbEirltU0CH5FJ-9" value="Template API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="HpsAoNqbEirltU0CH5FJ-1">
+          <mxGeometry x="282" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HpsAoNqbEirltU0CH5FJ-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HpsAoNqbEirltU0CH5FJ-1" source="HpsAoNqbEirltU0CH5FJ-11" target="HpsAoNqbEirltU0CH5FJ-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HpsAoNqbEirltU0CH5FJ-11" value="External Authorization" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="HpsAoNqbEirltU0CH5FJ-1">
+          <mxGeometry x="80" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HpsAoNqbEirltU0CH5FJ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HpsAoNqbEirltU0CH5FJ-1" source="HpsAoNqbEirltU0CH5FJ-17" target="HpsAoNqbEirltU0CH5FJ-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="140" y="290" />
+              <mxPoint x="230" y="290" />
+              <mxPoint x="230" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HpsAoNqbEirltU0CH5FJ-16" value="Pesquisar template" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HpsAoNqbEirltU0CH5FJ-15">
+          <mxGeometry x="-0.2425" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HpsAoNqbEirltU0CH5FJ-17" value="External Communication Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="HpsAoNqbEirltU0CH5FJ-1">
+          <mxGeometry x="80" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HpsAoNqbEirltU0CH5FJ-18" value="&lt;div&gt;External&lt;/div&gt;Authorization DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="HpsAoNqbEirltU0CH5FJ-1">
+          <mxGeometry x="110" y="150" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HpsAoNqbEirltU0CH5FJ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HpsAoNqbEirltU0CH5FJ-1" source="HpsAoNqbEirltU0CH5FJ-22" target="HpsAoNqbEirltU0CH5FJ-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-130" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HpsAoNqbEirltU0CH5FJ-20" value="Token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HpsAoNqbEirltU0CH5FJ-19">
+          <mxGeometry x="0.2059" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HpsAoNqbEirltU0CH5FJ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HpsAoNqbEirltU0CH5FJ-1" source="HpsAoNqbEirltU0CH5FJ-22" target="HpsAoNqbEirltU0CH5FJ-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-130" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HpsAoNqbEirltU0CH5FJ-22" value="Client" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="HpsAoNqbEirltU0CH5FJ-1">
+          <mxGeometry x="-190" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rA7OSXRcpBrXkKuMklEF-0" value="Template DB&lt;div&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="HpsAoNqbEirltU0CH5FJ-1">
+          <mxGeometry x="312" y="280" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
