@@ -88,7 +88,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Attachment" id="6Mwj8GZHnmWRv_DUWO8a">
-    <mxGraphModel dx="2429" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2189" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="XGSOOz6GtM8z8IQ6b6iL-0" />
         <mxCell id="XGSOOz6GtM8z8IQ6b6iL-1" parent="XGSOOz6GtM8z8IQ6b6iL-0" />
@@ -130,11 +130,6 @@
             <Array as="points">
               <mxPoint x="140" y="490" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="l9ujikPQvJMTBFyuDTC3-4" value="envia o anexo?" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XGSOOz6GtM8z8IQ6b6iL-13">
-          <mxGeometry x="-0.1724" y="-4" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l9ujikPQvJMTBFyuDTC3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XGSOOz6GtM8z8IQ6b6iL-1" source="XGSOOz6GtM8z8IQ6b6iL-14" target="XGSOOz6GtM8z8IQ6b6iL-9">
@@ -193,7 +188,7 @@
         <mxCell id="l9ujikPQvJMTBFyuDTC3-0" value="Attachment Manager" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XGSOOz6GtM8z8IQ6b6iL-1">
           <mxGeometry x="282" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OBrXSXCSHSXP3IEPiYHX-0" value="1. Validar os dados obrigatorios (como o id do template, etc)&lt;div&gt;2. Enviar o anexo para o Attachment&lt;/div&gt;&lt;div&gt;3. Enviar os dados para o Kafka (pode chamar o integration denovo, mas dessa vez o integration vai fazer assincrono)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="XGSOOz6GtM8z8IQ6b6iL-1">
+        <mxCell id="OBrXSXCSHSXP3IEPiYHX-0" value="1. Validar os dados obrigatorios (como o id do template, etc)&lt;div&gt;2. Enviar o anexo para o Attachment&lt;/div&gt;&lt;div&gt;3. Enviar os dados para o Kafka (pode chamar o integration denovo, mas dessa vez o integration vai fazer assincrono)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="XGSOOz6GtM8z8IQ6b6iL-1">
           <mxGeometry x="-350" y="430" width="350" height="100" as="geometry" />
         </mxCell>
         <mxCell id="OBrXSXCSHSXP3IEPiYHX-1" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="XGSOOz6GtM8z8IQ6b6iL-1" source="OBrXSXCSHSXP3IEPiYHX-0" target="XGSOOz6GtM8z8IQ6b6iL-14">
