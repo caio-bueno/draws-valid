@@ -179,10 +179,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XGSOOz6GtM8z8IQ6b6iL-21" value="FileUploader" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XGSOOz6GtM8z8IQ6b6iL-1">
-          <mxGeometry x="260" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="282" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XGSOOz6GtM8z8IQ6b6iL-22" value="Bucket" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="XGSOOz6GtM8z8IQ6b6iL-1">
-          <mxGeometry x="261" y="650" width="120" height="80" as="geometry" />
+          <mxGeometry x="283" y="650" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XGSOOz6GtM8z8IQ6b6iL-23" value="Kafka DC" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#E7157B;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.mq_broker;" vertex="1" parent="XGSOOz6GtM8z8IQ6b6iL-1">
           <mxGeometry x="700" y="155.5" width="78" height="69" as="geometry" />
@@ -191,7 +191,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l9ujikPQvJMTBFyuDTC3-0" value="Attachment Manager" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XGSOOz6GtM8z8IQ6b6iL-1">
-          <mxGeometry x="260" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="282" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
