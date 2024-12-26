@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="24.8.3" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="24.8.3" pages="3">
   <diagram name="Attachment" id="6Mwj8GZHnmWRv_DUWO8a">
     <mxGraphModel dx="2189" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -185,6 +185,33 @@
         </mxCell>
         <mxCell id="rA7OSXRcpBrXkKuMklEF-0" value="Template DB&lt;div&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="HpsAoNqbEirltU0CH5FJ-1">
           <mxGeometry x="-238" y="360" width="60" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="XpVBDEXHd1DzapXot_Tj" name="Página-3">
+    <mxGraphModel dx="1362" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Xnhe3AqcVe_5Hkh3ELjJ-1" value="https://multichannel.validpay.com.br/external/1040/communication/single" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xnhe3AqcVe_5Hkh3ELjJ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Xnhe3AqcVe_5Hkh3ELjJ-2" target="Xnhe3AqcVe_5Hkh3ELjJ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xnhe3AqcVe_5Hkh3ELjJ-2" value="External Gateway" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="520" y="100" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xnhe3AqcVe_5Hkh3ELjJ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Xnhe3AqcVe_5Hkh3ELjJ-1" target="Xnhe3AqcVe_5Hkh3ELjJ-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xnhe3AqcVe_5Hkh3ELjJ-4" value="http://multichannel-external-communication-service.multichannel-{1040}-prd.cluster.local:9000/multichannel-external-communication-service/communication/single" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="210" width="300" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
