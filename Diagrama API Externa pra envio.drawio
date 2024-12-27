@@ -272,7 +272,7 @@
         <mxCell id="mQf6Y3JGLbWv9brlVZ1m-12" value="NMC DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFF2CC;" vertex="1" parent="mQf6Y3JGLbWv9brlVZ1m-7">
           <mxGeometry x="70" y="245" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="mQf6Y3JGLbWv9brlVZ1m-13" value="namespace-9999" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="mQf6Y3JGLbWv9brlVZ1m-13" value="namespace-9999" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#FFF2CC;" vertex="1" parent="1">
           <mxGeometry x="1240" y="633" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
