@@ -121,8 +121,8 @@
             <mxPoint x="-138" y="241" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EOsW8slYTcF1ZHwi1U9--0" value="Construir uma collection no delivery:&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;Id da aplicação: 9999&amp;nbsp;&lt;/div&gt;&lt;div&gt;Nome da aplicação: GET no deliverycenter-ms&lt;/div&gt;&lt;div&gt;Nome da mailing: XPTO_{data}&lt;/div&gt;&lt;div&gt;Nome do ciclo: {data}&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;" vertex="1" parent="XGSOOz6GtM8z8IQ6b6iL-1">
-          <mxGeometry x="-350" y="610" width="270" height="110" as="geometry" />
+        <mxCell id="EOsW8slYTcF1ZHwi1U9--0" value="Construir uma collection no delivery:&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;Id da aplicação: 9999&amp;nbsp;&lt;/div&gt;&lt;div&gt;Nome da aplicação: Nome da aplicação&lt;/div&gt;&lt;div&gt;Nome da mailing: XPTO_{data}&lt;/div&gt;&lt;div&gt;Nome do ciclo: {data}&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;" vertex="1" parent="XGSOOz6GtM8z8IQ6b6iL-1">
+          <mxGeometry x="-350" y="610" width="240" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
