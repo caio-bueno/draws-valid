@@ -7,8 +7,10 @@
         <mxCell id="WdTEvjhrzGX_ELUJUdme-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WdTEvjhrzGX_ELUJUdme-1" target="WdTEvjhrzGX_ELUJUdme-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WdTEvjhrzGX_ELUJUdme-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WdTEvjhrzGX_ELUJUdme-1" target="WdTEvjhrzGX_ELUJUdme-9">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="WdTEvjhrzGX_ELUJUdme-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="WdTEvjhrzGX_ELUJUdme-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="230" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="WdTEvjhrzGX_ELUJUdme-1" value="Data API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="200" width="120" height="60" as="geometry" />
@@ -20,7 +22,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WdTEvjhrzGX_ELUJUdme-5" value="Kafka&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;19-socketlabs-notification-engagement&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="190" width="220" height="80" as="geometry" />
+          <mxGeometry x="-300" y="180" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WdTEvjhrzGX_ELUJUdme-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WdTEvjhrzGX_ELUJUdme-7" target="WdTEvjhrzGX_ELUJUdme-1">
           <mxGeometry relative="1" as="geometry" />
@@ -32,10 +34,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WdTEvjhrzGX_ELUJUdme-9" value="DeliveryCenter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WdTEvjhrzGX_ELUJUdme-10" value="MongoDB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="480" y="320" width="60" height="80" as="geometry" />
+          <mxGeometry x="410" y="320" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WdTEvjhrzGX_ELUJUdme-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WdTEvjhrzGX_ELUJUdme-18" target="WdTEvjhrzGX_ELUJUdme-5">
           <mxGeometry relative="1" as="geometry" />
@@ -50,7 +52,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WdTEvjhrzGX_ELUJUdme-22" value="&lt;div&gt;Vivo&lt;/div&gt;Notification Consumer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="-250" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WdTEvjhrzGX_ELUJUdme-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WdTEvjhrzGX_ELUJUdme-24" target="WdTEvjhrzGX_ELUJUdme-1">
           <mxGeometry relative="1" as="geometry">
