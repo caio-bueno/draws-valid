@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.4" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.4" pages="3">
   <diagram name="Fluxo email clicado Paliativo" id="s7zd_H9pS11osYgYin6z">
     <mxGraphModel dx="2253" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -150,8 +150,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Fi3_uGTg0AbIReFupbrD-0" value="&lt;pre style=&quot;box-sizing: border-box; font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 13.125px; margin-top: 0px; margin-bottom: 1rem; overflow: auto; color: rgb(255, 255, 255); text-align: left; background-color: rgb(34, 34, 34);&quot; class=&quot;message-body&quot;&gt;{&lt;br&gt;   &quot;MessageId&quot;: &quot;2bc25941-4804-42df-ba1c-f3ce384c60d6&quot;,&lt;br&gt;   &quot;DateTime&quot;: &quot;2025-01-27T20:21:09Z&quot;,&lt;br&gt;   &quot;TrackingType&quot;: 0,&lt;br&gt;   &quot;UserAgent&quot;: &quot;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0&quot;,&lt;br&gt;   &quot;Url&quot;: &quot;https://vivo.com.br/para-empresas&quot;&lt;br&gt;}&lt;/pre&gt;&lt;pre style=&quot;box-sizing: border-box; font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 13.125px; margin-top: 0px; margin-bottom: 1rem; overflow: auto; color: rgb(255, 255, 255); text-align: left; background-color: rgb(34, 34, 34);&quot; class=&quot;message-body&quot;&gt;&lt;br&gt;&lt;/pre&gt;&lt;pre style=&quot;box-sizing: border-box; font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 13.125px; margin-top: 0px; margin-bottom: 1rem; overflow: auto; color: rgb(255, 255, 255); text-align: left; background-color: rgb(34, 34, 34);&quot; class=&quot;message-body&quot;&gt;&lt;pre style=&quot;box-sizing: border-box; font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; margin-top: 0px; margin-bottom: 1rem; overflow: auto;&quot; class=&quot;message-body&quot;&gt;{&lt;br/&gt;   &quot;MessageId&quot;: &quot;2be80ff7-722d-43e0-8750-b1d0a6f45c4f&quot;,&lt;br/&gt;   &quot;DateTime&quot;: &quot;2025-01-27T20:29:27Z&quot;,&lt;br/&gt;   &quot;TrackingType&quot;: 0,&lt;br/&gt;   &quot;UserAgent&quot;: &quot;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0&quot;,&lt;br/&gt;   &quot;Url&quot;: &quot;https://www.linkedin.com/showcase/vivo-empresas/&quot;&lt;br/&gt;}&lt;/pre&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Hje7VYfhiTadqM2yfrba-1">
-          <mxGeometry x="-450" y="560" width="1020" height="330" as="geometry" />
+          <mxGeometry x="-450" y="570" width="1060" height="320" as="geometry" />
         </mxCell>
+        <mxCell id="32Une8IPNZ5q-RaGdSvZ-0" value="Contras&lt;div&gt;Mandar msg para todas as aplicações&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Hje7VYfhiTadqM2yfrba-1">
+          <mxGeometry x="210" y="30" width="210" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Aqc-3xvgGVUVn0-kDKqU" name="Página-3">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
