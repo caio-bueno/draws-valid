@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.4" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.4" pages="3">
   <diagram name="Fluxo email clicado Paliativo" id="s7zd_H9pS11osYgYin6z">
     <mxGraphModel dx="2253" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -154,6 +154,23 @@
         </mxCell>
         <mxCell id="32Une8IPNZ5q-RaGdSvZ-0" value="Contras&lt;div&gt;Mandar msg para todas as aplicações&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Hje7VYfhiTadqM2yfrba-1">
           <mxGeometry x="210" y="30" width="210" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="dBtRQqH-mfpfHho8U5vK" name="Página-3">
+    <mxGraphModel dx="1426" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ic0BnB0G_uOSSKIreyKN-1" value="Mailing (inicial)&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;journeyFlowId -&amp;gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="110" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ic0BnB0G_uOSSKIreyKN-3" value="JourneyFlow" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ic0BnB0G_uOSSKIreyKN-4" value="Mailing (inicial)&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;journeyFlowId -de onde ele manda?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="290" width="250" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
