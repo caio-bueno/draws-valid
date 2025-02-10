@@ -1,9 +1,33 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.11">
   <diagram name="Página-1" id="_u-viQ4tWB5F775vzb91">
-    <mxGraphModel>
+    <mxGraphModel dx="786" dy="421" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nGhsondbv13JztoRxBYk-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nGhsondbv13JztoRxBYk-1" target="nGhsondbv13JztoRxBYk-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nGhsondbv13JztoRxBYk-1" value="1040" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="100" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nGhsondbv13JztoRxBYk-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nGhsondbv13JztoRxBYk-2" target="nGhsondbv13JztoRxBYk-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nGhsondbv13JztoRxBYk-2" value="1041" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="140" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nGhsondbv13JztoRxBYk-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nGhsondbv13JztoRxBYk-3" target="nGhsondbv13JztoRxBYk-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nGhsondbv13JztoRxBYk-3" value="1042" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="180" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nGhsondbv13JztoRxBYk-4" value="http://10.140.1.19/multichannel-gateway-api-ms/data-api/{brandId}/mailing/create" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="120" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nGhsondbv13JztoRxBYk-5" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="620" y="110" width="60" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
