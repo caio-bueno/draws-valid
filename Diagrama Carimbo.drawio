@@ -119,12 +119,17 @@
         <mxCell id="GK9JkIOlpKe_d5EvESm7-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GK9JkIOlpKe_d5EvESm7-43" target="GK9JkIOlpKe_d5EvESm7-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="725" y="570" />
+              <mxPoint x="710" y="570" />
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="G6NmhX7UGvOXbWNcZWR5-1" value="GET do link da imagem" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GK9JkIOlpKe_d5EvESm7-44">
+          <mxGeometry x="0.1448" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="GK9JkIOlpKe_d5EvESm7-43" value="Destinatário do Email" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="710" y="630" width="30" height="60" as="geometry" />
+          <mxGeometry x="690" y="620" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k-sZ2wOe6czBFOAfIENY-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="k-sZ2wOe6czBFOAfIENY-1" target="GK9JkIOlpKe_d5EvESm7-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
