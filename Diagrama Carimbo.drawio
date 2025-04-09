@@ -70,7 +70,7 @@
           <mxGeometry x="420" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GK9JkIOlpKe_d5EvESm7-18" value="bucket GCS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="450" y="620" width="60" height="80" as="geometry" />
+          <mxGeometry x="450" y="610" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GK9JkIOlpKe_d5EvESm7-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GK9JkIOlpKe_d5EvESm7-21" target="GK9JkIOlpKe_d5EvESm7-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -142,13 +142,13 @@
         <mxCell id="k-sZ2wOe6czBFOAfIENY-1" value="Email-Sender" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="k-sZ2wOe6czBFOAfIENY-10" value="Socketlabs" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="k-sZ2wOe6czBFOAfIENY-10" value="Socketlabs" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="570" y="40" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k-sZ2wOe6czBFOAfIENY-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.617;entryY=0.095;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="k-sZ2wOe6czBFOAfIENY-10" target="GK9JkIOlpKe_d5EvESm7-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k-sZ2wOe6czBFOAfIENY-12" value="Informa comunicação entregue" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="k-sZ2wOe6czBFOAfIENY-11" vertex="1" connectable="0">
+        <mxCell id="k-sZ2wOe6czBFOAfIENY-12" value="Informa comunicação entregue" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=none;" parent="k-sZ2wOe6czBFOAfIENY-11" vertex="1" connectable="0">
           <mxGeometry x="-0.0453" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
