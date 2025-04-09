@@ -111,9 +111,9 @@
             <mxPoint x="334" y="480" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GK9JkIOlpKe_d5EvESm7-41" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot;&gt;1. Cria a imagem&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot;&gt;2. Salva a&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: light-dark(rgb(251, 251, 251), rgb(21, 21, 21)); font-size: 12px; text-wrap-mode: wrap; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;imagem para o link da comunicação&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="GK9JkIOlpKe_d5EvESm7-38" vertex="1" connectable="0">
+        <mxCell id="GK9JkIOlpKe_d5EvESm7-41" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot;&gt;1. Cria a imagem&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot;&gt;2. Salva a&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: light-dark(rgb(251, 251, 251), rgb(21, 21, 21)); font-size: 12px; text-wrap-mode: wrap; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;imagem para o link da comunicação&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="GK9JkIOlpKe_d5EvESm7-38" vertex="1" connectable="0">
           <mxGeometry x="-0.55" y="4" relative="1" as="geometry">
-            <mxPoint x="16" y="44" as="offset" />
+            <mxPoint x="26" y="74" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GK9JkIOlpKe_d5EvESm7-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GK9JkIOlpKe_d5EvESm7-43" target="GK9JkIOlpKe_d5EvESm7-16" edge="1">
