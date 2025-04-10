@@ -284,7 +284,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZZLq3uHXSBqXj2sfNgHm" name="Desenho Jornada Email">
-    <mxGraphModel dx="2247" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1420" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -292,19 +292,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TErzWY0CkLevdPiapEyc-1" value="Inicie sua Jornada" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TErzWY0CkLevdPiapEyc-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TErzWY0CkLevdPiapEyc-2" target="TErzWY0CkLevdPiapEyc-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TErzWY0CkLevdPiapEyc-2" value="Enviar Email" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TErzWY0CkLevdPiapEyc-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TErzWY0CkLevdPiapEyc-4" target="TErzWY0CkLevdPiapEyc-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TErzWY0CkLevdPiapEyc-4" value="Prazo de&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TErzWY0CkLevdPiapEyc-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TErzWY0CkLevdPiapEyc-6" target="TErzWY0CkLevdPiapEyc-8">
           <mxGeometry relative="1" as="geometry" />
@@ -325,27 +325,27 @@
         <mxCell id="TErzWY0CkLevdPiapEyc-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TErzWY0CkLevdPiapEyc-14" target="TErzWY0CkLevdPiapEyc-24">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="40" y="560" />
-              <mxPoint x="40" y="560" />
+              <mxPoint x="280" y="550" />
+              <mxPoint x="280" y="550" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TErzWY0CkLevdPiapEyc-6" value="Comunicação Recebida?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="320" width="80" height="80" as="geometry" />
+          <mxGeometry x="420" y="310" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TErzWY0CkLevdPiapEyc-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TErzWY0CkLevdPiapEyc-8" target="TErzWY0CkLevdPiapEyc-34">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="450" y="440" as="targetPoint" />
+            <mxPoint x="690" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TErzWY0CkLevdPiapEyc-8" value="Enviar SMS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="630" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TErzWY0CkLevdPiapEyc-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TErzWY0CkLevdPiapEyc-11" target="TErzWY0CkLevdPiapEyc-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TErzWY0CkLevdPiapEyc-11" value="Prazo de ?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TErzWY0CkLevdPiapEyc-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TErzWY0CkLevdPiapEyc-14" target="TErzWY0CkLevdPiapEyc-16">
           <mxGeometry relative="1" as="geometry" />
@@ -355,9 +355,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TErzWY0CkLevdPiapEyc-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TErzWY0CkLevdPiapEyc-14" target="TErzWY0CkLevdPiapEyc-37">
+        <mxCell id="TErzWY0CkLevdPiapEyc-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TErzWY0CkLevdPiapEyc-14" target="EwBL8CMOUCeMKEKebEes-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="30" y="680" as="targetPoint" />
+            <mxPoint x="210" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TErzWY0CkLevdPiapEyc-38" value="Sim" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TErzWY0CkLevdPiapEyc-20">
@@ -366,25 +366,37 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TErzWY0CkLevdPiapEyc-14" value="Comunicação Aberta?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="545" width="80" height="80" as="geometry" />
+          <mxGeometry x="300" y="535" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TErzWY0CkLevdPiapEyc-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TErzWY0CkLevdPiapEyc-16" target="TErzWY0CkLevdPiapEyc-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TErzWY0CkLevdPiapEyc-16" value="Enviar SMS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TErzWY0CkLevdPiapEyc-24" value="Na Verdade aqui seria &quot;Email lido?&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TErzWY0CkLevdPiapEyc-34" value="Jornada SMS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="390" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="630" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TErzWY0CkLevdPiapEyc-35" value="Jornada SMS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="190" y="760" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TErzWY0CkLevdPiapEyc-37" value="FIM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="680" width="120" height="60" as="geometry" />
+        <mxCell id="EwBL8CMOUCeMKEKebEes-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EwBL8CMOUCeMKEKebEes-1" target="EwBL8CMOUCeMKEKebEes-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oPjNAtaCiIOqKtBBJHAW-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EwBL8CMOUCeMKEKebEes-1" target="oPjNAtaCiIOqKtBBJHAW-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EwBL8CMOUCeMKEKebEes-1" value="Carimbar data/hora de Confirmação de leitura do Destinatario" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="170" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EwBL8CMOUCeMKEKebEes-2" value="FIM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="170" y="767" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oPjNAtaCiIOqKtBBJHAW-1" value="Ao carimbar, como saber o que deve ser carimbado?&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Data de Envio ou&lt;/div&gt;&lt;div&gt;Data de Entrega ou&lt;/div&gt;&lt;div&gt;Data de Abertura?&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="620" width="120" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -489,6 +501,16 @@
         <mxCell id="qADLiSQYVotNlAOCg83p-0" value="FIM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Wlhd7awOFhJ0pjb71Akj-1">
           <mxGeometry x="-770" y="770" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="r9Dda64BotCuAzX7-B22-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Wlhd7awOFhJ0pjb71Akj-1" source="r9Dda64BotCuAzX7-B22-0" target="Wlhd7awOFhJ0pjb71Akj-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-790" y="693" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r9Dda64BotCuAzX7-B22-0" value="Ao carimbar, como saber o que deve ser carimbado?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;" vertex="1" parent="Wlhd7awOFhJ0pjb71Akj-1">
+          <mxGeometry x="-820" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -582,13 +604,19 @@
         <mxCell id="kz5xYa4zvww5NSKUXjA2-1" value="Aqui a impressão deve ser sempre com Carta Registrada com AR" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;" vertex="1" parent="BheHN0EVwMQXSxWpcGMh-1">
           <mxGeometry x="-70" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kz5xYa4zvww5NSKUXjA2-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="BheHN0EVwMQXSxWpcGMh-1" target="kz5xYa4zvww5NSKUXjA2-4">
+        <mxCell id="kz5xYa4zvww5NSKUXjA2-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="BheHN0EVwMQXSxWpcGMh-1" target="kz5xYa4zvww5NSKUXjA2-4" source="BheHN0EVwMQXSxWpcGMh-23">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-190" y="592.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kz5xYa4zvww5NSKUXjA2-4" value="Aqui a impressão deve ser sempre com Carta Registrada com AR" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;" vertex="1" parent="BheHN0EVwMQXSxWpcGMh-1">
           <mxGeometry x="-70" y="562.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kz5xYa4zvww5NSKUXjA2-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="BheHN0EVwMQXSxWpcGMh-1" source="kz5xYa4zvww5NSKUXjA2-5" target="eTg47hYg_MoDVPb8695V-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kz5xYa4zvww5NSKUXjA2-5" value="Ao carimbar, como saber o que deve ser carimbado?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;" vertex="1" parent="BheHN0EVwMQXSxWpcGMh-1">
+          <mxGeometry x="-770" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
