@@ -512,10 +512,10 @@
           <mxGeometry x="-820" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R2_rkQQoALWvkH5srWMY-0" value="&lt;b&gt;Funcionalidade&lt;/b&gt;: Confirmar o recebimento do destinatario do SMS?&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Inbound da Infobip&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Análise Tenica: Relacionar a mensagem recebida com a mensagem enviada&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Wlhd7awOFhJ0pjb71Akj-1">
-          <mxGeometry x="-770" y="150" width="240" height="120" as="geometry" />
+          <mxGeometry x="-800" y="30" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="R2_rkQQoALWvkH5srWMY-1" value="&lt;b&gt;Funcionalidade&lt;/b&gt;: Carimbar data e hora da confirmação do consentimento&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Análise Tenica: Carimbar data/hora da mensagem SMS de confirmação. Exemplo: OK, SIM, CIENTE&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Wlhd7awOFhJ0pjb71Akj-1">
-          <mxGeometry x="-770" y="270" width="240" height="120" as="geometry" />
+          <mxGeometry x="-800" y="150" width="240" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
