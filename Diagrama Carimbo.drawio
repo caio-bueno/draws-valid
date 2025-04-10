@@ -339,7 +339,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TErzWY0CkLevdPiapEyc-8" value="Enviar SMS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="630" y="325" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TErzWY0CkLevdPiapEyc-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TErzWY0CkLevdPiapEyc-11" target="TErzWY0CkLevdPiapEyc-14">
           <mxGeometry relative="1" as="geometry" />
