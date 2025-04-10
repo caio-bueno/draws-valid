@@ -331,7 +331,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TErzWY0CkLevdPiapEyc-6" value="Comunicação Recebida?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="310" width="80" height="80" as="geometry" />
+          <mxGeometry x="410" y="310" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="TErzWY0CkLevdPiapEyc-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TErzWY0CkLevdPiapEyc-8" target="TErzWY0CkLevdPiapEyc-34">
           <mxGeometry relative="1" as="geometry">
