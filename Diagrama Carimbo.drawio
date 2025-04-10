@@ -381,7 +381,7 @@
           <mxGeometry x="630" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TErzWY0CkLevdPiapEyc-35" value="Jornada SMS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="430" y="750" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="766" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EwBL8CMOUCeMKEKebEes-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EwBL8CMOUCeMKEKebEes-1" target="EwBL8CMOUCeMKEKebEes-2">
           <mxGeometry relative="1" as="geometry" />
