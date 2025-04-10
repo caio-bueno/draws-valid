@@ -401,54 +401,6 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Desenho Jornada x SCP" id="7J2hamzVfnw9-GfrUlDy">
-    <mxGraphModel dx="1420" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="CpwEGjzI2ms4pbqTEzjR-0" />
-        <mxCell id="CpwEGjzI2ms4pbqTEzjR-1" parent="CpwEGjzI2ms4pbqTEzjR-0" />
-        <mxCell id="CpwEGjzI2ms4pbqTEzjR-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CpwEGjzI2ms4pbqTEzjR-1" source="CpwEGjzI2ms4pbqTEzjR-3" target="CpwEGjzI2ms4pbqTEzjR-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CpwEGjzI2ms4pbqTEzjR-3" value="Inicie sua Jornada" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CpwEGjzI2ms4pbqTEzjR-1">
-          <mxGeometry x="400" y="30" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="CpwEGjzI2ms4pbqTEzjR-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CpwEGjzI2ms4pbqTEzjR-1" source="CpwEGjzI2ms4pbqTEzjR-5" target="CpwEGjzI2ms4pbqTEzjR-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CpwEGjzI2ms4pbqTEzjR-5" value="Enviar Email" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CpwEGjzI2ms4pbqTEzjR-1">
-          <mxGeometry x="400" y="120" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="CpwEGjzI2ms4pbqTEzjR-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CpwEGjzI2ms4pbqTEzjR-1" source="CpwEGjzI2ms4pbqTEzjR-7" target="CpwEGjzI2ms4pbqTEzjR-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CpwEGjzI2ms4pbqTEzjR-7" value="Prazo de&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="CpwEGjzI2ms4pbqTEzjR-1">
-          <mxGeometry x="400" y="210" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="CpwEGjzI2ms4pbqTEzjR-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CpwEGjzI2ms4pbqTEzjR-1" source="CpwEGjzI2ms4pbqTEzjR-13" target="CpwEGjzI2ms4pbqTEzjR-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CpwEGjzI2ms4pbqTEzjR-9" value="Não" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CpwEGjzI2ms4pbqTEzjR-8">
-          <mxGeometry x="-0.2714" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CpwEGjzI2ms4pbqTEzjR-13" value="Comunicação Recebida?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="CpwEGjzI2ms4pbqTEzjR-1">
-          <mxGeometry x="420" y="310" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="CpwEGjzI2ms4pbqTEzjR-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CpwEGjzI2ms4pbqTEzjR-1" source="CpwEGjzI2ms4pbqTEzjR-15" target="CpwEGjzI2ms4pbqTEzjR-26">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="690" y="430" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CpwEGjzI2ms4pbqTEzjR-15" value="Enviar SMS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CpwEGjzI2ms4pbqTEzjR-1">
-          <mxGeometry x="630" y="320" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="CpwEGjzI2ms4pbqTEzjR-26" value="Jornada SMS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="CpwEGjzI2ms4pbqTEzjR-1">
-          <mxGeometry x="630" y="430" width="120" height="60" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
   <diagram name="Desenho Jornada SMS" id="1EMmGuxdKDr0vShNhnTh">
     <mxGraphModel dx="2247" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -674,6 +626,60 @@
         </mxCell>
         <mxCell id="1yyliqmPbuBOCxUFNM58-0" value="&lt;b&gt;Funcionalidade&lt;/b&gt;: Confirmar o recebimento do destinatario via Whatsapp?&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Botmaker&lt;/div&gt;&lt;div&gt;Análise Tenica: Relacionar a mensagem recebida com a mensagem enviada.&amp;nbsp;&lt;/div&gt;&lt;div&gt;Testar viabilidade tecnica no caso de envio de botões (SIM/NAO) para o destinatário confirmar&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="BheHN0EVwMQXSxWpcGMh-1">
           <mxGeometry x="-795" y="150" width="240" height="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Desenho Jornada x SCP" id="7J2hamzVfnw9-GfrUlDy">
+    <mxGraphModel dx="1420" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="CpwEGjzI2ms4pbqTEzjR-0" />
+        <mxCell id="CpwEGjzI2ms4pbqTEzjR-1" parent="CpwEGjzI2ms4pbqTEzjR-0" />
+        <mxCell id="CpwEGjzI2ms4pbqTEzjR-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CpwEGjzI2ms4pbqTEzjR-1" source="CpwEGjzI2ms4pbqTEzjR-3" target="CpwEGjzI2ms4pbqTEzjR-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CpwEGjzI2ms4pbqTEzjR-3" value="Inicie sua Jornada" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CpwEGjzI2ms4pbqTEzjR-1">
+          <mxGeometry x="400" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CpwEGjzI2ms4pbqTEzjR-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CpwEGjzI2ms4pbqTEzjR-1" source="CpwEGjzI2ms4pbqTEzjR-5" target="CpwEGjzI2ms4pbqTEzjR-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CpwEGjzI2ms4pbqTEzjR-5" value="Enviar Email" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CpwEGjzI2ms4pbqTEzjR-1">
+          <mxGeometry x="400" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CpwEGjzI2ms4pbqTEzjR-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CpwEGjzI2ms4pbqTEzjR-1" source="CpwEGjzI2ms4pbqTEzjR-7" target="CpwEGjzI2ms4pbqTEzjR-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CpwEGjzI2ms4pbqTEzjR-7" value="Prazo de&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="CpwEGjzI2ms4pbqTEzjR-1">
+          <mxGeometry x="400" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CpwEGjzI2ms4pbqTEzjR-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CpwEGjzI2ms4pbqTEzjR-1" source="CpwEGjzI2ms4pbqTEzjR-13" target="CpwEGjzI2ms4pbqTEzjR-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CpwEGjzI2ms4pbqTEzjR-9" value="Não" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CpwEGjzI2ms4pbqTEzjR-8">
+          <mxGeometry x="-0.2714" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CpwEGjzI2ms4pbqTEzjR-13" value="Comunicação Recebida?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="CpwEGjzI2ms4pbqTEzjR-1">
+          <mxGeometry x="420" y="310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CpwEGjzI2ms4pbqTEzjR-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CpwEGjzI2ms4pbqTEzjR-1" source="CpwEGjzI2ms4pbqTEzjR-15" target="CpwEGjzI2ms4pbqTEzjR-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CpwEGjzI2ms4pbqTEzjR-15" value="Enviar SMS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CpwEGjzI2ms4pbqTEzjR-1">
+          <mxGeometry x="630" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CpwEGjzI2ms4pbqTEzjR-26" value="Jornada SMS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="CpwEGjzI2ms4pbqTEzjR-1">
+          <mxGeometry x="630" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oxr8he4Cx4JU8slQ2evU-0" value="&lt;font face=&quot;Helvetica&quot;&gt;Aplicação SCP&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(31, 31, 31); text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;5667 - Hospital São Cristóvao - API Externa&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CpwEGjzI2ms4pbqTEzjR-1">
+          <mxGeometry x="30" y="20" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oxr8he4Cx4JU8slQ2evU-1" value="&lt;b&gt;Dificuldades:&lt;/b&gt;&lt;div&gt;Como relacionar a Jornada? Quando é API externa&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="CpwEGjzI2ms4pbqTEzjR-1">
+          <mxGeometry x="50" y="130" width="290" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
