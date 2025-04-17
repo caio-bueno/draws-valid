@@ -443,7 +443,7 @@
         <mxCell id="OcfO7sE4Dq4_iPjduytc-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xnAskWQI795BVz0hWVEY-1" source="xnAskWQI795BVz0hWVEY-13" target="OcfO7sE4Dq4_iPjduytc-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xnAskWQI795BVz0hWVEY-13" value="Comunicação Recebida?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="xnAskWQI795BVz0hWVEY-1">
+        <mxCell id="xnAskWQI795BVz0hWVEY-13" value="Comunicação Entregue?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="xnAskWQI795BVz0hWVEY-1">
           <mxGeometry x="410" y="310" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="xnAskWQI795BVz0hWVEY-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xnAskWQI795BVz0hWVEY-1" source="xnAskWQI795BVz0hWVEY-15" target="xnAskWQI795BVz0hWVEY-26">
