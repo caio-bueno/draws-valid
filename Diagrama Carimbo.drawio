@@ -412,9 +412,6 @@
         <mxCell id="xnAskWQI795BVz0hWVEY-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xnAskWQI795BVz0hWVEY-1" source="xnAskWQI795BVz0hWVEY-5" target="xnAskWQI795BVz0hWVEY-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OcfO7sE4Dq4_iPjduytc-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xnAskWQI795BVz0hWVEY-1" source="xnAskWQI795BVz0hWVEY-5" target="OcfO7sE4Dq4_iPjduytc-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="xnAskWQI795BVz0hWVEY-5" value="Enviar Email" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xnAskWQI795BVz0hWVEY-1">
           <mxGeometry x="400" y="120" width="120" height="60" as="geometry" />
         </mxCell>
@@ -439,9 +436,6 @@
           <mxGeometry x="-0.2875" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="OcfO7sE4Dq4_iPjduytc-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xnAskWQI795BVz0hWVEY-1" source="xnAskWQI795BVz0hWVEY-13" target="OcfO7sE4Dq4_iPjduytc-0">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xnAskWQI795BVz0hWVEY-13" value="Comunicação Entregue?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="xnAskWQI795BVz0hWVEY-1">
           <mxGeometry x="410" y="310" width="100" height="90" as="geometry" />
@@ -501,12 +495,6 @@
         </mxCell>
         <mxCell id="xnAskWQI795BVz0hWVEY-31" value="FIM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="xnAskWQI795BVz0hWVEY-1">
           <mxGeometry x="90" y="760" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OcfO7sE4Dq4_iPjduytc-0" value="Carimbar Data de Entrega" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="xnAskWQI795BVz0hWVEY-1">
-          <mxGeometry x="100" y="325" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OcfO7sE4Dq4_iPjduytc-2" value="Carimbar Data de Envio" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="xnAskWQI795BVz0hWVEY-1">
-          <mxGeometry x="110" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -683,6 +671,9 @@
         <mxCell id="kz5xYa4zvww5NSKUXjA2-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="BheHN0EVwMQXSxWpcGMh-1" source="BheHN0EVwMQXSxWpcGMh-14" target="kz5xYa4zvww5NSKUXjA2-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="dXPnNZjc0-v6hRFj3dQS-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="BheHN0EVwMQXSxWpcGMh-1" source="BheHN0EVwMQXSxWpcGMh-14" target="dXPnNZjc0-v6hRFj3dQS-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BheHN0EVwMQXSxWpcGMh-14" value="Enviar Impresso" style="rounded=1;whiteSpace=wrap;html=1;" parent="BheHN0EVwMQXSxWpcGMh-1" vertex="1">
           <mxGeometry x="-270" y="430" width="120" height="60" as="geometry" />
         </mxCell>
@@ -713,6 +704,9 @@
         <mxCell id="BheHN0EVwMQXSxWpcGMh-21" value="Confirmado o recebimento pelo Destinatario?&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Whatsapp&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="BheHN0EVwMQXSxWpcGMh-1" vertex="1">
           <mxGeometry x="-522.5" y="525" width="145" height="135" as="geometry" />
         </mxCell>
+        <mxCell id="dXPnNZjc0-v6hRFj3dQS-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="BheHN0EVwMQXSxWpcGMh-1" source="BheHN0EVwMQXSxWpcGMh-23" target="dXPnNZjc0-v6hRFj3dQS-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BheHN0EVwMQXSxWpcGMh-23" value="Enviar Impresso" style="rounded=1;whiteSpace=wrap;html=1;" parent="BheHN0EVwMQXSxWpcGMh-1" vertex="1">
           <mxGeometry x="-270" y="562.5" width="120" height="60" as="geometry" />
         </mxCell>
@@ -726,15 +720,7 @@
           <mxGeometry x="-770" y="669.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kz5xYa4zvww5NSKUXjA2-1" value="Aqui a impressão deve ser sempre com Carta Registrada com AR" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;" parent="BheHN0EVwMQXSxWpcGMh-1" vertex="1">
-          <mxGeometry x="-70" y="430" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="kz5xYa4zvww5NSKUXjA2-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="BheHN0EVwMQXSxWpcGMh-1" source="BheHN0EVwMQXSxWpcGMh-23" target="kz5xYa4zvww5NSKUXjA2-4" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-190" y="592.5" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kz5xYa4zvww5NSKUXjA2-4" value="Aqui a impressão deve ser sempre com Carta Registrada com AR" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;" parent="BheHN0EVwMQXSxWpcGMh-1" vertex="1">
-          <mxGeometry x="-70" y="562.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="-130" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kz5xYa4zvww5NSKUXjA2-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="BheHN0EVwMQXSxWpcGMh-1" source="kz5xYa4zvww5NSKUXjA2-5" target="eTg47hYg_MoDVPb8695V-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -744,6 +730,9 @@
         </mxCell>
         <mxCell id="1yyliqmPbuBOCxUFNM58-0" value="&lt;b&gt;Funcionalidade&lt;/b&gt;: Confirmar o recebimento do destinatario via Whatsapp?&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Botmaker&lt;/div&gt;&lt;div&gt;Análise Tenica: Relacionar a mensagem recebida com a mensagem enviada.&amp;nbsp;&lt;/div&gt;&lt;div&gt;Testar viabilidade tecnica no caso de envio de botões (SIM/NAO) para o destinatário confirmar&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="BheHN0EVwMQXSxWpcGMh-1" vertex="1">
           <mxGeometry x="-795" y="150" width="240" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="dXPnNZjc0-v6hRFj3dQS-0" value="FIM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="BheHN0EVwMQXSxWpcGMh-1">
+          <mxGeometry y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
