@@ -563,7 +563,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Wlhd7awOFhJ0pjb71Akj-13" value="Comunicação Recebida?" style="rhombus;whiteSpace=wrap;html=1;" parent="Wlhd7awOFhJ0pjb71Akj-1" vertex="1">
-          <mxGeometry x="-400" y="300" width="80" height="80" as="geometry" />
+          <mxGeometry x="-410" y="295" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Wlhd7awOFhJ0pjb71Akj-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="Wlhd7awOFhJ0pjb71Akj-1" source="Wlhd7awOFhJ0pjb71Akj-15" target="Wlhd7awOFhJ0pjb71Akj-26" edge="1">
           <mxGeometry relative="1" as="geometry">
