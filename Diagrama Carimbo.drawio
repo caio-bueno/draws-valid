@@ -493,16 +493,16 @@
         <mxCell id="xnAskWQI795BVz0hWVEY-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xnAskWQI795BVz0hWVEY-1" source="xnAskWQI795BVz0hWVEY-30" target="xnAskWQI795BVz0hWVEY-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xnAskWQI795BVz0hWVEY-30" value="Carimbar Confirmação de abertura do Destinatario" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="xnAskWQI795BVz0hWVEY-1">
-          <mxGeometry x="90" y="542.5" width="120" height="60" as="geometry" />
+        <mxCell id="xnAskWQI795BVz0hWVEY-30" value="Carimbar&amp;nbsp;&lt;div&gt;&lt;b&gt;Data de Abertura&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="xnAskWQI795BVz0hWVEY-1">
+          <mxGeometry x="85" y="528.75" width="130" height="87.5" as="geometry" />
         </mxCell>
         <mxCell id="xnAskWQI795BVz0hWVEY-31" value="FIM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="xnAskWQI795BVz0hWVEY-1">
           <mxGeometry x="90" y="760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_-CuecyHVVai31-S6ssA-0" value="Carimbar&amp;nbsp;&lt;div&gt;Data de Entrega&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="xnAskWQI795BVz0hWVEY-1">
+        <mxCell id="_-CuecyHVVai31-S6ssA-0" value="Carimbar&amp;nbsp;&lt;div&gt;&lt;b&gt;Data de Entrega&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="xnAskWQI795BVz0hWVEY-1">
           <mxGeometry x="90" y="325" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_-CuecyHVVai31-S6ssA-2" value="Carimbar&amp;nbsp;&lt;div&gt;Data de Envio&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="xnAskWQI795BVz0hWVEY-1">
+        <mxCell id="_-CuecyHVVai31-S6ssA-2" value="Carimbar&amp;nbsp;&lt;div&gt;&lt;b&gt;Data de Envio&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="xnAskWQI795BVz0hWVEY-1">
           <mxGeometry x="90" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_-CuecyHVVai31-S6ssA-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xnAskWQI795BVz0hWVEY-1" source="xnAskWQI795BVz0hWVEY-5" target="_-CuecyHVVai31-S6ssA-2">
@@ -606,18 +606,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Wlhd7awOFhJ0pjb71Akj-24" value="Enviar Whatsapp" style="rounded=1;whiteSpace=wrap;html=1;" parent="Wlhd7awOFhJ0pjb71Akj-1" vertex="1">
-          <mxGeometry x="-370" y="640" width="120" height="60" as="geometry" />
+          <mxGeometry x="-330" y="550" width="120" height="64" as="geometry" />
         </mxCell>
         <mxCell id="Wlhd7awOFhJ0pjb71Akj-26" value="Jornada Whatsapp" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="Wlhd7awOFhJ0pjb71Akj-1" vertex="1">
           <mxGeometry x="-190" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Wlhd7awOFhJ0pjb71Akj-27" value="Jornada Whatsapp" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="Wlhd7awOFhJ0pjb71Akj-1" vertex="1">
-          <mxGeometry x="-370" y="750" width="120" height="60" as="geometry" />
+          <mxGeometry x="-330" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qADLiSQYVotNlAOCg83p-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="Wlhd7awOFhJ0pjb71Akj-1" source="Wlhd7awOFhJ0pjb71Akj-28" target="qADLiSQYVotNlAOCg83p-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Wlhd7awOFhJ0pjb71Akj-28" value="Carimbar data/hora de Confirmação de consentimento do Destinatario" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="Wlhd7awOFhJ0pjb71Akj-1" vertex="1">
+        <mxCell id="Wlhd7awOFhJ0pjb71Akj-28" value="Carimbar&amp;nbsp;&lt;div&gt;&lt;b&gt;Data de Confirmação de consentimento do Destinatario&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="Wlhd7awOFhJ0pjb71Akj-1" vertex="1">
           <mxGeometry x="-770" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qADLiSQYVotNlAOCg83p-0" value="FIM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="Wlhd7awOFhJ0pjb71Akj-1" vertex="1">
@@ -629,8 +629,8 @@
         <mxCell id="R2_rkQQoALWvkH5srWMY-1" value="&lt;b&gt;Funcionalidade&lt;/b&gt;: Carimbar data e hora da confirmação do consentimento&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Análise Tenica: Carimbar data/hora da mensagem SMS de confirmação. Exemplo: OK, SIM, CIENTE, ACEITO&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Wlhd7awOFhJ0pjb71Akj-1" vertex="1">
           <mxGeometry x="-800" y="150" width="240" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="C55S4KGgYuPiGv8tSvH6-0" value="Carimbar&amp;nbsp;&lt;div&gt;Data de Envio&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="Wlhd7awOFhJ0pjb71Akj-1">
-          <mxGeometry x="-160" y="110" width="120" height="60" as="geometry" />
+        <mxCell id="C55S4KGgYuPiGv8tSvH6-0" value="Carimbar&amp;nbsp;&lt;div&gt;&lt;b&gt;Data de Envio&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="Wlhd7awOFhJ0pjb71Akj-1">
+          <mxGeometry x="-190" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C55S4KGgYuPiGv8tSvH6-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Wlhd7awOFhJ0pjb71Akj-1" target="C55S4KGgYuPiGv8tSvH6-0" source="Wlhd7awOFhJ0pjb71Akj-5">
           <mxGeometry relative="1" as="geometry">
@@ -638,7 +638,7 @@
             <mxPoint x="115.04" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C55S4KGgYuPiGv8tSvH6-2" value="Carimbar&amp;nbsp;&lt;div&gt;Data de Entrega&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="Wlhd7awOFhJ0pjb71Akj-1">
+        <mxCell id="C55S4KGgYuPiGv8tSvH6-2" value="Carimbar&amp;nbsp;&lt;div&gt;&lt;b&gt;Data de Entrega&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="Wlhd7awOFhJ0pjb71Akj-1">
           <mxGeometry x="-680" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
