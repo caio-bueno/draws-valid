@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.10" pages="7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.10" pages="8">
   <diagram name="Carimbo de entrega no Email" id="2lCL9pdjSwzXqbeYY4HG">
     <mxGraphModel dx="2247" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -437,6 +437,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="_-CuecyHVVai31-S6ssA-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="xnAskWQI795BVz0hWVEY-1" source="xnAskWQI795BVz0hWVEY-13" target="_-CuecyHVVai31-S6ssA-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xnAskWQI795BVz0hWVEY-13" value="Comunicação Entregue?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="xnAskWQI795BVz0hWVEY-1">
           <mxGeometry x="410" y="310" width="100" height="90" as="geometry" />
         </mxCell>
@@ -490,11 +493,23 @@
         <mxCell id="xnAskWQI795BVz0hWVEY-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xnAskWQI795BVz0hWVEY-1" source="xnAskWQI795BVz0hWVEY-30" target="xnAskWQI795BVz0hWVEY-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xnAskWQI795BVz0hWVEY-30" value="Carimbar Confirmação de leitura do Destinatario" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="xnAskWQI795BVz0hWVEY-1">
+        <mxCell id="xnAskWQI795BVz0hWVEY-30" value="Carimbar Confirmação de abertura do Destinatario" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="xnAskWQI795BVz0hWVEY-1">
           <mxGeometry x="90" y="542.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xnAskWQI795BVz0hWVEY-31" value="FIM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="xnAskWQI795BVz0hWVEY-1">
           <mxGeometry x="90" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_-CuecyHVVai31-S6ssA-0" value="Carimbar&amp;nbsp;&lt;div&gt;Data de Entrega&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="xnAskWQI795BVz0hWVEY-1">
+          <mxGeometry x="90" y="325" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_-CuecyHVVai31-S6ssA-2" value="Carimbar&amp;nbsp;&lt;div&gt;Data de Envio&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="xnAskWQI795BVz0hWVEY-1">
+          <mxGeometry x="90" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_-CuecyHVVai31-S6ssA-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xnAskWQI795BVz0hWVEY-1" source="xnAskWQI795BVz0hWVEY-5" target="_-CuecyHVVai31-S6ssA-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="150" as="sourcePoint" />
+            <mxPoint x="310" y="150" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
@@ -537,6 +552,9 @@
           <mxGeometry x="-0.2875" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="C55S4KGgYuPiGv8tSvH6-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Wlhd7awOFhJ0pjb71Akj-1" source="Wlhd7awOFhJ0pjb71Akj-13" target="C55S4KGgYuPiGv8tSvH6-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Wlhd7awOFhJ0pjb71Akj-13" value="Comunicação Recebida?" style="rhombus;whiteSpace=wrap;html=1;" parent="Wlhd7awOFhJ0pjb71Akj-1" vertex="1">
           <mxGeometry x="-400" y="300" width="80" height="80" as="geometry" />
@@ -612,16 +630,20 @@
         <mxCell id="R2_rkQQoALWvkH5srWMY-0" value="&lt;b&gt;Funcionalidade&lt;/b&gt;: Confirmar o recebimento do destinatario do SMS?&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Inbound da Infobip&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Análise Tenica: Relacionar a mensagem recebida com a mensagem enviada&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Wlhd7awOFhJ0pjb71Akj-1" vertex="1">
           <mxGeometry x="-800" y="30" width="240" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="kNJsF4BRFMh1iCGsdDrX-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Wlhd7awOFhJ0pjb71Akj-1" source="R2_rkQQoALWvkH5srWMY-1" target="Wlhd7awOFhJ0pjb71Akj-22">
+        <mxCell id="R2_rkQQoALWvkH5srWMY-1" value="&lt;b&gt;Funcionalidade&lt;/b&gt;: Carimbar data e hora da confirmação do consentimento&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Análise Tenica: Carimbar data/hora da mensagem SMS de confirmação. Exemplo: OK, SIM, CIENTE, ACEITO&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Wlhd7awOFhJ0pjb71Akj-1" vertex="1">
+          <mxGeometry x="-800" y="150" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="C55S4KGgYuPiGv8tSvH6-0" value="Carimbar&amp;nbsp;&lt;div&gt;Data de Envio&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="Wlhd7awOFhJ0pjb71Akj-1">
+          <mxGeometry x="-160" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C55S4KGgYuPiGv8tSvH6-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Wlhd7awOFhJ0pjb71Akj-1" target="C55S4KGgYuPiGv8tSvH6-0" source="Wlhd7awOFhJ0pjb71Akj-5">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-680" y="510" />
-              <mxPoint x="-480" y="510" />
-            </Array>
+            <mxPoint x="-329.99999999999994" y="140.48000000000002" as="sourcePoint" />
+            <mxPoint x="115.04" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="R2_rkQQoALWvkH5srWMY-1" value="&lt;b&gt;Funcionalidade&lt;/b&gt;: Carimbar data e hora da confirmação do consentimento&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Análise Tenica: Carimbar data/hora da mensagem SMS de confirmação. Exemplo: OK, SIM, CIENTE&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Wlhd7awOFhJ0pjb71Akj-1" vertex="1">
-          <mxGeometry x="-800" y="150" width="240" height="120" as="geometry" />
+        <mxCell id="C55S4KGgYuPiGv8tSvH6-2" value="Carimbar&amp;nbsp;&lt;div&gt;Data de Entrega&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="Wlhd7awOFhJ0pjb71Akj-1">
+          <mxGeometry x="-680" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -638,6 +660,9 @@
           <mxGeometry x="-390" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BheHN0EVwMQXSxWpcGMh-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="BheHN0EVwMQXSxWpcGMh-1" source="BheHN0EVwMQXSxWpcGMh-5" target="BheHN0EVwMQXSxWpcGMh-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3zNI3DucAhcVeDLIqS4y-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="BheHN0EVwMQXSxWpcGMh-1" source="BheHN0EVwMQXSxWpcGMh-5" target="3zNI3DucAhcVeDLIqS4y-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BheHN0EVwMQXSxWpcGMh-5" value="Enviar Whatsapp" style="rounded=1;whiteSpace=wrap;html=1;" parent="BheHN0EVwMQXSxWpcGMh-1" vertex="1">
@@ -664,6 +689,9 @@
           <mxGeometry x="-0.2875" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="3zNI3DucAhcVeDLIqS4y-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="BheHN0EVwMQXSxWpcGMh-1" source="BheHN0EVwMQXSxWpcGMh-12" target="3zNI3DucAhcVeDLIqS4y-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BheHN0EVwMQXSxWpcGMh-12" value="Comunicação Recebida?" style="rhombus;whiteSpace=wrap;html=1;" parent="BheHN0EVwMQXSxWpcGMh-1" vertex="1">
           <mxGeometry x="-370" y="300" width="80" height="80" as="geometry" />
@@ -734,6 +762,12 @@
         <mxCell id="dXPnNZjc0-v6hRFj3dQS-0" value="FIM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="BheHN0EVwMQXSxWpcGMh-1">
           <mxGeometry y="490" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="3zNI3DucAhcVeDLIqS4y-0" value="Carimbar&amp;nbsp;&lt;div&gt;Data de Envio&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="BheHN0EVwMQXSxWpcGMh-1">
+          <mxGeometry x="-160" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3zNI3DucAhcVeDLIqS4y-2" value="Carimbar&amp;nbsp;&lt;div&gt;Data de Entrega&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="BheHN0EVwMQXSxWpcGMh-1">
+          <mxGeometry x="-650" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -799,6 +833,80 @@
         </mxCell>
         <mxCell id="oxr8he4Cx4JU8slQ2evU-3" value="MAILING_ORIGINAL_FALLBACK_SMS_2025_1.csv" style="rounded=0;whiteSpace=wrap;html=1;" parent="CpwEGjzI2ms4pbqTEzjR-1" vertex="1">
           <mxGeometry x="810" y="320" width="310" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="kF9PB4IuYELVFSyAJE_U" name="Exemplos Laudo">
+    <mxGraphModel dx="1455" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aH2a97cpFmyhZg2_O2y3-1" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;EMAIL/SMS/Whatsapp/Impresso&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Data de Envio Email: 17/04/2025 15:20&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;-&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Data de Entrega Email: 17/04/2025 15:20&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- 454554454554&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Data de Envio SMS: 17/04/2025 15:20&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Data de Entrega SMS: 17/04/2025 15:20&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Data de Envio Whatsapp: 17/04/2025 15:20&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Data de Entrega Whatsapp: 17/04/2025 15:20&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Data de Envio Impresso:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;17/04/2025 15:20&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="60" width="450" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="aH2a97cpFmyhZg2_O2y3-2" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;EMAIL/SMS&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Data de Envio Email: 17/04/2025 15:20&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Data de Entrega Email: 17/04/2025 15:20&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Data de Envio SMS: 17/04/2025 15:20&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Data de Entrega SMS: 17/04/2025 15:20&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Data de Consentimento SMS:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;17/04/2025 15:20&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="110" width="300" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="aH2a97cpFmyhZg2_O2y3-4" value="" style="shape=link;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aH2a97cpFmyhZg2_O2y3-11" target="aH2a97cpFmyhZg2_O2y3-17">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="50" y="620" as="sourcePoint" />
+            <mxPoint x="740" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aH2a97cpFmyhZg2_O2y3-6" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1" target="aH2a97cpFmyhZg2_O2y3-5">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="50" y="620" as="sourcePoint" />
+            <mxPoint x="740" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aH2a97cpFmyhZg2_O2y3-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="50" y="610" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aH2a97cpFmyhZg2_O2y3-8" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1" source="aH2a97cpFmyhZg2_O2y3-5" target="aH2a97cpFmyhZg2_O2y3-7">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="70" y="620" as="sourcePoint" />
+            <mxPoint x="740" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aH2a97cpFmyhZg2_O2y3-7" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="290" y="610" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aH2a97cpFmyhZg2_O2y3-10" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1" source="aH2a97cpFmyhZg2_O2y3-7" target="aH2a97cpFmyhZg2_O2y3-9">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="310" y="620" as="sourcePoint" />
+            <mxPoint x="740" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aH2a97cpFmyhZg2_O2y3-9" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="460" y="610" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aH2a97cpFmyhZg2_O2y3-12" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1" source="aH2a97cpFmyhZg2_O2y3-9" target="aH2a97cpFmyhZg2_O2y3-11">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="480" y="620" as="sourcePoint" />
+            <mxPoint x="740" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aH2a97cpFmyhZg2_O2y3-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="650" y="610" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aH2a97cpFmyhZg2_O2y3-13" value="Data de Envio&lt;div&gt;EMAIL&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="550" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aH2a97cpFmyhZg2_O2y3-14" value="Data de Entrega&lt;div&gt;EMAIL&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="550" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aH2a97cpFmyhZg2_O2y3-15" value="Data de Envio&lt;div&gt;SMS&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="550" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aH2a97cpFmyhZg2_O2y3-16" value="Data de Entrega&lt;div&gt;SMS&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="555" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aH2a97cpFmyhZg2_O2y3-17" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="770" y="610" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aH2a97cpFmyhZg2_O2y3-18" value="Data de Consentimento&lt;div&gt;SMS&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="550" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
