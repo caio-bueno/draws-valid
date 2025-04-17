@@ -850,63 +850,57 @@
         </mxCell>
         <mxCell id="aH2a97cpFmyhZg2_O2y3-4" value="" style="shape=link;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aH2a97cpFmyhZg2_O2y3-11" target="aH2a97cpFmyhZg2_O2y3-17">
           <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="50" y="620" as="sourcePoint" />
-            <mxPoint x="740" y="620" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aH2a97cpFmyhZg2_O2y3-6" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1" target="aH2a97cpFmyhZg2_O2y3-5">
-          <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="50" y="620" as="sourcePoint" />
-            <mxPoint x="740" y="620" as="targetPoint" />
+            <mxPoint x="30" y="430" as="sourcePoint" />
+            <mxPoint x="720" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aH2a97cpFmyhZg2_O2y3-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="50" y="610" width="20" height="20" as="geometry" />
+          <mxGeometry x="90" y="420" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aH2a97cpFmyhZg2_O2y3-8" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1" source="aH2a97cpFmyhZg2_O2y3-5" target="aH2a97cpFmyhZg2_O2y3-7">
           <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="70" y="620" as="sourcePoint" />
-            <mxPoint x="740" y="620" as="targetPoint" />
+            <mxPoint x="50" y="430" as="sourcePoint" />
+            <mxPoint x="720" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aH2a97cpFmyhZg2_O2y3-7" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="290" y="610" width="20" height="20" as="geometry" />
+          <mxGeometry x="270" y="420" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aH2a97cpFmyhZg2_O2y3-10" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1" source="aH2a97cpFmyhZg2_O2y3-7" target="aH2a97cpFmyhZg2_O2y3-9">
           <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="310" y="620" as="sourcePoint" />
-            <mxPoint x="740" y="620" as="targetPoint" />
+            <mxPoint x="290" y="430" as="sourcePoint" />
+            <mxPoint x="720" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aH2a97cpFmyhZg2_O2y3-9" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="460" y="610" width="20" height="20" as="geometry" />
+          <mxGeometry x="440" y="420" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aH2a97cpFmyhZg2_O2y3-12" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1" source="aH2a97cpFmyhZg2_O2y3-9" target="aH2a97cpFmyhZg2_O2y3-11">
           <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="480" y="620" as="sourcePoint" />
-            <mxPoint x="740" y="620" as="targetPoint" />
+            <mxPoint x="460" y="430" as="sourcePoint" />
+            <mxPoint x="720" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aH2a97cpFmyhZg2_O2y3-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="650" y="610" width="20" height="20" as="geometry" />
+          <mxGeometry x="609" y="420" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aH2a97cpFmyhZg2_O2y3-13" value="Data de Envio&lt;div&gt;EMAIL&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="550" width="60" height="30" as="geometry" />
+          <mxGeometry x="70" y="360" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aH2a97cpFmyhZg2_O2y3-14" value="Data de Entrega&lt;div&gt;EMAIL&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="550" width="60" height="30" as="geometry" />
+          <mxGeometry x="250" y="360" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aH2a97cpFmyhZg2_O2y3-15" value="Data de Envio&lt;div&gt;SMS&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="550" width="60" height="30" as="geometry" />
+          <mxGeometry x="420" y="360" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aH2a97cpFmyhZg2_O2y3-16" value="Data de Entrega&lt;div&gt;SMS&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="630" y="555" width="60" height="30" as="geometry" />
+          <mxGeometry x="587" y="365" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aH2a97cpFmyhZg2_O2y3-17" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="770" y="610" width="20" height="20" as="geometry" />
+          <mxGeometry x="750" y="420" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aH2a97cpFmyhZg2_O2y3-18" value="Data de Consentimento&lt;div&gt;SMS&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="750" y="550" width="60" height="30" as="geometry" />
+          <mxGeometry x="725" y="360" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
