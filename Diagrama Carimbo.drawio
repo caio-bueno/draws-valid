@@ -412,13 +412,13 @@
         <mxCell id="xnAskWQI795BVz0hWVEY-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xnAskWQI795BVz0hWVEY-1" source="xnAskWQI795BVz0hWVEY-5" target="xnAskWQI795BVz0hWVEY-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xnAskWQI795BVz0hWVEY-5" value="Enviar Email" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xnAskWQI795BVz0hWVEY-1">
+        <mxCell id="xnAskWQI795BVz0hWVEY-5" value="Enviar Email&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(JourneyFlow)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xnAskWQI795BVz0hWVEY-1">
           <mxGeometry x="400" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xnAskWQI795BVz0hWVEY-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xnAskWQI795BVz0hWVEY-1" source="xnAskWQI795BVz0hWVEY-7" target="xnAskWQI795BVz0hWVEY-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xnAskWQI795BVz0hWVEY-7" value="Prazo de&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="xnAskWQI795BVz0hWVEY-1">
+        <mxCell id="xnAskWQI795BVz0hWVEY-7" value="Prazo de&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(ChronoCard)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="xnAskWQI795BVz0hWVEY-1">
           <mxGeometry x="400" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xnAskWQI795BVz0hWVEY-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xnAskWQI795BVz0hWVEY-1" source="xnAskWQI795BVz0hWVEY-13" target="xnAskWQI795BVz0hWVEY-15">
