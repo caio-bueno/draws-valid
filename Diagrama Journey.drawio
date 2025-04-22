@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.14" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.14" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Diagrama de Classes Journey">
     <mxGraphModel dx="1418" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -144,7 +144,7 @@
           <mxGeometry x="110" y="160" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jbYLdidbW6hlcgp61fTm-12" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;JourneyFlowReferenceDate&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;sentDate&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;deliveredDate&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;openedDate&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="110" y="250" width="160" height="80" as="geometry" />
+          <mxGeometry x="110" y="250" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="jbYLdidbW6hlcgp61fTm-16" value="&lt;ol&gt;&lt;li&gt;Criar a classe Type&lt;/li&gt;&lt;li&gt;Criar a classe ReferenceDate&lt;/li&gt;&lt;li&gt;Alterar o JourneyFlow para incluir as referencias&amp;nbsp;&lt;/li&gt;&lt;li&gt;Alterar o JourneyFlow para permitir associar uma lista de JourneyFlows a ele mesmo&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="110" y="360" width="280" height="180" as="geometry" />
@@ -377,6 +377,158 @@
         </mxCell>
         <mxCell id="rvsF2fy35932VOvTHkKU-5" value="Sim" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="l7chhHmURNImJR5QNOAv-1">
           <mxGeometry x="300" y="248" width="40" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Desenho Jornada Carimbo Data de Abertura Email com Back" id="R154WIbV5IIEcbakPuWW">
+    <mxGraphModel dx="1418" dy="1921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="ZKmkpmf62aVSKYclMzni-0" />
+        <mxCell id="ZKmkpmf62aVSKYclMzni-1" parent="ZKmkpmf62aVSKYclMzni-0" />
+        <mxCell id="ZKmkpmf62aVSKYclMzni-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZKmkpmf62aVSKYclMzni-1" source="ZKmkpmf62aVSKYclMzni-3" target="ZKmkpmf62aVSKYclMzni-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKmkpmf62aVSKYclMzni-3" value="Inicie sua Jornada" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZKmkpmf62aVSKYclMzni-1">
+          <mxGeometry x="340" y="-60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKmkpmf62aVSKYclMzni-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZKmkpmf62aVSKYclMzni-1" source="ZKmkpmf62aVSKYclMzni-6" target="ZKmkpmf62aVSKYclMzni-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKmkpmf62aVSKYclMzni-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZKmkpmf62aVSKYclMzni-1" source="ZKmkpmf62aVSKYclMzni-6" target="ZKmkpmf62aVSKYclMzni-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKmkpmf62aVSKYclMzni-6" value="Enviar Email&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(JourneyFlow)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZKmkpmf62aVSKYclMzni-1">
+          <mxGeometry x="340" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKmkpmf62aVSKYclMzni-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZKmkpmf62aVSKYclMzni-1" source="ZKmkpmf62aVSKYclMzni-8" target="ZKmkpmf62aVSKYclMzni-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKmkpmf62aVSKYclMzni-8" value="Prazo de&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(ChronoCard)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="ZKmkpmf62aVSKYclMzni-1">
+          <mxGeometry x="340" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKmkpmf62aVSKYclMzni-9" value="Carimbar&amp;nbsp;&lt;div&gt;&lt;b&gt;Data de Envio&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZKmkpmf62aVSKYclMzni-1">
+          <mxGeometry x="160" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKmkpmf62aVSKYclMzni-10" value="1. Ler do tópico &quot;communication-tracking-sended-topic&quot;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2. Pegar o log SMTP caso seja EMAIL&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;3. Gerar nova mensagem no kafka para chamar o Carimbador (&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Enviar o timestamp como data para carimbar)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZKmkpmf62aVSKYclMzni-1">
+          <mxGeometry x="125" y="920" width="370" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKmkpmf62aVSKYclMzni-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZKmkpmf62aVSKYclMzni-1" source="ZKmkpmf62aVSKYclMzni-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="945" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZKmkpmf62aVSKYclMzni-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZKmkpmf62aVSKYclMzni-1" source="ZKmkpmf62aVSKYclMzni-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="715" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZKmkpmf62aVSKYclMzni-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZKmkpmf62aVSKYclMzni-1" source="ZKmkpmf62aVSKYclMzni-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="855" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZKmkpmf62aVSKYclMzni-14" value="&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Pegar log SMTP caso seja EMAIL&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZKmkpmf62aVSKYclMzni-13">
+          <mxGeometry x="-0.1857" relative="1" as="geometry">
+            <mxPoint x="-68" y="45" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZKmkpmf62aVSKYclMzni-15" value="journey-simple-flow-service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZKmkpmf62aVSKYclMzni-1">
+          <mxGeometry x="250" y="825" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKmkpmf62aVSKYclMzni-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZKmkpmf62aVSKYclMzni-1" target="ZKmkpmf62aVSKYclMzni-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="825" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZKmkpmf62aVSKYclMzni-17" value="data-api" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZKmkpmf62aVSKYclMzni-1">
+          <mxGeometry x="40" y="824" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKmkpmf62aVSKYclMzni-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZKmkpmf62aVSKYclMzni-1" source="ZKmkpmf62aVSKYclMzni-19" target="ZKmkpmf62aVSKYclMzni-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKmkpmf62aVSKYclMzni-19" value="&lt;span style=&quot;text-align: left;&quot;&gt;communication-tracking-opened-topic&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="ZKmkpmf62aVSKYclMzni-1">
+          <mxGeometry x="17.5" y="640" width="165" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKmkpmf62aVSKYclMzni-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZKmkpmf62aVSKYclMzni-1" source="ZKmkpmf62aVSKYclMzni-21" target="ZKmkpmf62aVSKYclMzni-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKmkpmf62aVSKYclMzni-21" value="&lt;span style=&quot;text-align: left;&quot;&gt;carimbar-data&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="ZKmkpmf62aVSKYclMzni-1">
+          <mxGeometry x="344" y="635" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKmkpmf62aVSKYclMzni-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZKmkpmf62aVSKYclMzni-1" source="ZKmkpmf62aVSKYclMzni-24" target="ZKmkpmf62aVSKYclMzni-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKmkpmf62aVSKYclMzni-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZKmkpmf62aVSKYclMzni-1" source="ZKmkpmf62aVSKYclMzni-24" target="ZKmkpmf62aVSKYclMzni-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKmkpmf62aVSKYclMzni-24" value="valid-carimbador-datas-nmc" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="ZKmkpmf62aVSKYclMzni-1">
+          <mxGeometry x="464" y="825" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKmkpmf62aVSKYclMzni-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZKmkpmf62aVSKYclMzni-1" source="ZKmkpmf62aVSKYclMzni-28" target="ZKmkpmf62aVSKYclMzni-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKmkpmf62aVSKYclMzni-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZKmkpmf62aVSKYclMzni-1" source="ZKmkpmf62aVSKYclMzni-28" target="ZKmkpmf62aVSKYclMzni-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKmkpmf62aVSKYclMzni-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZKmkpmf62aVSKYclMzni-1" source="ZKmkpmf62aVSKYclMzni-28" target="ZKmkpmf62aVSKYclMzni-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="730" y="745" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZKmkpmf62aVSKYclMzni-28" value="valid-carimbador-tst" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="ZKmkpmf62aVSKYclMzni-1">
+          <mxGeometry x="660" y="825" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKmkpmf62aVSKYclMzni-29" value="certificadora" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZKmkpmf62aVSKYclMzni-1">
+          <mxGeometry x="860" y="825" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKmkpmf62aVSKYclMzni-30" value="MongoDB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="ZKmkpmf62aVSKYclMzni-1">
+          <mxGeometry x="690" y="915" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKmkpmf62aVSKYclMzni-31" value="serpro" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZKmkpmf62aVSKYclMzni-1">
+          <mxGeometry x="860" y="725" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKmkpmf62aVSKYclMzni-32" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ReferenceId: &quot;3c3579a3-5e57-41b6-b914-9b8821aecb59&quot;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Data:&quot;2025-04-15T12:05:02.342+00:00&quot;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Label: &quot;Data de abertura&quot;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;referenceDate: &quot;openedDate&quot;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;content: &quot;Data&quot;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZKmkpmf62aVSKYclMzni-1">
+          <mxGeometry x="550" y="630" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKmkpmf62aVSKYclMzni-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ZKmkpmf62aVSKYclMzni-1" source="ZKmkpmf62aVSKYclMzni-34" target="ZKmkpmf62aVSKYclMzni-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GEQoWf9U5jCSZkPTgYIX-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZKmkpmf62aVSKYclMzni-1" source="ZKmkpmf62aVSKYclMzni-34" target="GEQoWf9U5jCSZkPTgYIX-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKmkpmf62aVSKYclMzni-34" value="Comunicação Recebida?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="ZKmkpmf62aVSKYclMzni-1">
+          <mxGeometry x="350" y="225" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKmkpmf62aVSKYclMzni-35" value="Carimbar&amp;nbsp;&lt;div&gt;&lt;b&gt;Data de Entrega&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZKmkpmf62aVSKYclMzni-1">
+          <mxGeometry x="160" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKmkpmf62aVSKYclMzni-36" value="Sim" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ZKmkpmf62aVSKYclMzni-1">
+          <mxGeometry x="300" y="248" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GEQoWf9U5jCSZkPTgYIX-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZKmkpmf62aVSKYclMzni-1" source="GEQoWf9U5jCSZkPTgYIX-12" target="GEQoWf9U5jCSZkPTgYIX-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GEQoWf9U5jCSZkPTgYIX-12" value="Prazo de ?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZKmkpmf62aVSKYclMzni-1">
+          <mxGeometry x="340" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GEQoWf9U5jCSZkPTgYIX-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZKmkpmf62aVSKYclMzni-1" source="GEQoWf9U5jCSZkPTgYIX-15" target="GEQoWf9U5jCSZkPTgYIX-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GEQoWf9U5jCSZkPTgYIX-14" value="Sim" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GEQoWf9U5jCSZkPTgYIX-13">
+          <mxGeometry x="-0.4378" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GEQoWf9U5jCSZkPTgYIX-15" value="Comunicação Aberta?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="ZKmkpmf62aVSKYclMzni-1">
+          <mxGeometry x="350" y="430" width="100" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="GEQoWf9U5jCSZkPTgYIX-16" value="Carimbar&amp;nbsp;&lt;div&gt;&lt;b&gt;Data de Abertura&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="ZKmkpmf62aVSKYclMzni-1">
+          <mxGeometry x="145" y="438.75" width="130" height="87.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
