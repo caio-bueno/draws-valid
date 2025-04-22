@@ -217,6 +217,9 @@
         <mxCell id="q4417ZdJkvilkfgulP48-11" value="&lt;span style=&quot;text-align: left;&quot;&gt;communication-tracking-sended-topic&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="HsCFxOGYkvxDGaH6NJR9-1">
           <mxGeometry x="90" y="270" width="165" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="xJT9p_C8iAA3NT2ifCQl-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HsCFxOGYkvxDGaH6NJR9-1" source="q4417ZdJkvilkfgulP48-17" target="xJT9p_C8iAA3NT2ifCQl-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="q4417ZdJkvilkfgulP48-17" value="&lt;span style=&quot;text-align: left;&quot;&gt;carimbar-data&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="HsCFxOGYkvxDGaH6NJR9-1">
           <mxGeometry x="354" y="250" width="120" height="80" as="geometry" />
         </mxCell>
@@ -253,6 +256,9 @@
         </mxCell>
         <mxCell id="q4417ZdJkvilkfgulP48-26" value="serpro" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HsCFxOGYkvxDGaH6NJR9-1">
           <mxGeometry x="870" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xJT9p_C8iAA3NT2ifCQl-0" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ReferenceId: &quot;3c3579a3-5e57-41b6-b914-9b8821aecb59&quot;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Data:&quot;2025-04-15T12:05:02.342+00:00&quot;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Label: &quot;Data de envio&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HsCFxOGYkvxDGaH6NJR9-1">
+          <mxGeometry x="560" y="200" width="250" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
