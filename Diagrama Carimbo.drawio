@@ -399,7 +399,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Desenho Jornada Email Carimbos Multiplos" id="IeLLqvTZgvI0YYglJpPM">
-    <mxGraphModel dx="1418" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="914" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="xnAskWQI795BVz0hWVEY-0" />
         <mxCell id="xnAskWQI795BVz0hWVEY-1" parent="xnAskWQI795BVz0hWVEY-0" />
@@ -489,16 +489,16 @@
         <mxCell id="xnAskWQI795BVz0hWVEY-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="xnAskWQI795BVz0hWVEY-1" source="xnAskWQI795BVz0hWVEY-30" target="xnAskWQI795BVz0hWVEY-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xnAskWQI795BVz0hWVEY-30" value="Carimbar&amp;nbsp;&lt;div&gt;&lt;b&gt;Data de Abertura&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="xnAskWQI795BVz0hWVEY-1" vertex="1">
-          <mxGeometry x="85" y="528.75" width="130" height="87.5" as="geometry" />
+        <mxCell id="xnAskWQI795BVz0hWVEY-30" value="Carimbar&amp;nbsp;&lt;div&gt;&lt;b&gt;Data de Abertura&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="xnAskWQI795BVz0hWVEY-1" vertex="1">
+          <mxGeometry x="88" y="539.37" width="125" height="66.25" as="geometry" />
         </mxCell>
         <mxCell id="xnAskWQI795BVz0hWVEY-31" value="FIM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="xnAskWQI795BVz0hWVEY-1" vertex="1">
           <mxGeometry x="90" y="760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_-CuecyHVVai31-S6ssA-0" value="Carimbar&amp;nbsp;&lt;div&gt;&lt;b&gt;Data de Entrega&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="xnAskWQI795BVz0hWVEY-1" vertex="1">
+        <mxCell id="_-CuecyHVVai31-S6ssA-0" value="Carimbar&amp;nbsp;&lt;div&gt;&lt;b&gt;Data de Recebimento&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="xnAskWQI795BVz0hWVEY-1" vertex="1">
           <mxGeometry x="90" y="325" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_-CuecyHVVai31-S6ssA-2" value="Carimbar&amp;nbsp;&lt;div&gt;&lt;b&gt;Data de Envio&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="xnAskWQI795BVz0hWVEY-1" vertex="1">
+        <mxCell id="_-CuecyHVVai31-S6ssA-2" value="Carimbar&amp;nbsp;&lt;div&gt;&lt;b&gt;Data de Envio&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="xnAskWQI795BVz0hWVEY-1" vertex="1">
           <mxGeometry x="90" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_-CuecyHVVai31-S6ssA-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="xnAskWQI795BVz0hWVEY-1" source="xnAskWQI795BVz0hWVEY-5" target="_-CuecyHVVai31-S6ssA-2" edge="1">
