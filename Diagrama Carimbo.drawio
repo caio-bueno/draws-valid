@@ -399,7 +399,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Desenho Jornada Email Carimbos Multiplos" id="IeLLqvTZgvI0YYglJpPM">
-    <mxGraphModel dx="1657" dy="1921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="xnAskWQI795BVz0hWVEY-0" />
         <mxCell id="xnAskWQI795BVz0hWVEY-1" parent="xnAskWQI795BVz0hWVEY-0" />
@@ -770,7 +770,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Desenho Jornada x SCP" id="7J2hamzVfnw9-GfrUlDy">
-    <mxGraphModel dx="1420" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1657" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="CpwEGjzI2ms4pbqTEzjR-0" />
         <mxCell id="CpwEGjzI2ms4pbqTEzjR-1" parent="CpwEGjzI2ms4pbqTEzjR-0" />
@@ -815,10 +815,10 @@
           <mxGeometry x="630" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oxr8he4Cx4JU8slQ2evU-0" value="&lt;font face=&quot;Helvetica&quot;&gt;Aplicação SCP&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(31, 31, 31); text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;5667 - Hospital São Cristóvao - API Externa&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="CpwEGjzI2ms4pbqTEzjR-1" vertex="1">
-          <mxGeometry x="30" y="20" width="230" height="70" as="geometry" />
+          <mxGeometry x="10" y="25" width="230" height="70" as="geometry" />
         </mxCell>
         <mxCell id="oxr8he4Cx4JU8slQ2evU-1" value="&lt;b&gt;Dificuldades:&lt;/b&gt;&lt;div&gt;Como relacionar a Jornada? Quando é API externa&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Como relacionar a jornada quando a aplicação vem do SCP?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="CpwEGjzI2ms4pbqTEzjR-1" vertex="1">
-          <mxGeometry x="30" y="130" width="290" height="100" as="geometry" />
+          <mxGeometry x="10" y="120" width="290" height="100" as="geometry" />
         </mxCell>
         <mxCell id="oxr8he4Cx4JU8slQ2evU-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="CpwEGjzI2ms4pbqTEzjR-1" source="oxr8he4Cx4JU8slQ2evU-2" target="CpwEGjzI2ms4pbqTEzjR-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
