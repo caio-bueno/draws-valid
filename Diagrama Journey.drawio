@@ -370,7 +370,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Desenho Jornada Carimbo Envio de Email com Back" id="QY0e1oWz_NWg6PsJSU7Z">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1418" dy="1921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="HsCFxOGYkvxDGaH6NJR9-0" />
         <mxCell id="HsCFxOGYkvxDGaH6NJR9-1" parent="HsCFxOGYkvxDGaH6NJR9-0" />
@@ -427,7 +427,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q4417ZdJkvilkfgulP48-11" value="&lt;span style=&quot;text-align: left;&quot;&gt;communication-tracking-sended-topic&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="HsCFxOGYkvxDGaH6NJR9-1" vertex="1">
-          <mxGeometry x="90" y="270" width="165" height="80" as="geometry" />
+          <mxGeometry x="27.5" y="255" width="165" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xJT9p_C8iAA3NT2ifCQl-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="HsCFxOGYkvxDGaH6NJR9-1" source="q4417ZdJkvilkfgulP48-17" target="xJT9p_C8iAA3NT2ifCQl-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
