@@ -409,7 +409,7 @@
         <mxCell id="xnAskWQI795BVz0hWVEY-3" value="Inicie sua Jornada" style="rounded=0;whiteSpace=wrap;html=1;" parent="xnAskWQI795BVz0hWVEY-1" vertex="1">
           <mxGeometry x="400" y="-90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7I5_nEBB2OWG0LIV8oBD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="xnAskWQI795BVz0hWVEY-1" source="xnAskWQI795BVz0hWVEY-5" target="_-CuecyHVVai31-S6ssA-2" edge="1">
+        <mxCell id="7I5_nEBB2OWG0LIV8oBD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="xnAskWQI795BVz0hWVEY-1" source="xnAskWQI795BVz0hWVEY-5" target="_-CuecyHVVai31-S6ssA-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="460" y="110" as="targetPoint" />
           </mxGeometry>
@@ -509,7 +509,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_-CuecyHVVai31-S6ssA-2" value="Carimbar&amp;nbsp;&lt;div&gt;&lt;b&gt;Data de Envio&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="xnAskWQI795BVz0hWVEY-1" vertex="1">
-          <mxGeometry x="240" y="123" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r24bmN4cdb0J7P-Aw72T-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="xnAskWQI795BVz0hWVEY-1" source="r24bmN4cdb0J7P-Aw72T-0" target="xnAskWQI795BVz0hWVEY-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
