@@ -515,13 +515,21 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r24bmN4cdb0J7P-Aw72T-0" value="&lt;div&gt;&lt;b&gt;Futuramente:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Incluir as opções&lt;br&gt;&lt;br&gt;&lt;ol&gt;&lt;li&gt;&quot;Rastrear os anexos&quot;&amp;nbsp;&lt;/li&gt;&lt;li&gt;&quot;Assinar PDF eletronicamente&quot;&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;no botao para Editar o canal&lt;/div&gt;&lt;div&gt;abaixo do &quot;select&quot; do template&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;align=left;" parent="xnAskWQI795BVz0hWVEY-1" vertex="1">
-          <mxGeometry x="710" y="-45" width="180" height="165" as="geometry" />
+          <mxGeometry x="680" y="-157.5" width="180" height="165" as="geometry" />
         </mxCell>
         <mxCell id="7I5_nEBB2OWG0LIV8oBD-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="xnAskWQI795BVz0hWVEY-1" source="iAr_dq7oj3b6nzZy4ZLy-0" target="xnAskWQI795BVz0hWVEY-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="R9bmgiN1Azi26whGkkhP-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xnAskWQI795BVz0hWVEY-1" source="iAr_dq7oj3b6nzZy4ZLy-0" target="R9bmgiN1Azi26whGkkhP-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="158.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="iAr_dq7oj3b6nzZy4ZLy-0" value="Durante o tempo de" style="rounded=1;whiteSpace=wrap;html=1;" parent="xnAskWQI795BVz0hWVEY-1" vertex="1">
           <mxGeometry x="400" y="123" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R9bmgiN1Azi26whGkkhP-2" value="&lt;div&gt;&lt;b&gt;Prazo maximo: (N) (DIAS/HORAS/MINUTOS)&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;align=left;" vertex="1" parent="xnAskWQI795BVz0hWVEY-1">
+          <mxGeometry x="680" y="108" width="180" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
