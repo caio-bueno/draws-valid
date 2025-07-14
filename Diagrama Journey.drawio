@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.1.0" pages="5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="28.0.4" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Diagrama de Classes Journey">
     <mxGraphModel dx="838" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -370,7 +370,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Desenho Jornada Carimbo Envio de Email com Back" id="QY0e1oWz_NWg6PsJSU7Z">
-    <mxGraphModel dx="1418" dy="1921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1657" dy="1955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="HsCFxOGYkvxDGaH6NJR9-0" />
         <mxCell id="HsCFxOGYkvxDGaH6NJR9-1" parent="HsCFxOGYkvxDGaH6NJR9-0" />
@@ -389,10 +389,10 @@
         <mxCell id="q4417ZdJkvilkfgulP48-1" value="Enviar Email&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(JourneyFlow)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="HsCFxOGYkvxDGaH6NJR9-1" vertex="1">
           <mxGeometry x="340" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q4417ZdJkvilkfgulP48-2" value="Prazo de&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(ChronoCard)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="HsCFxOGYkvxDGaH6NJR9-1" vertex="1">
+        <mxCell id="q4417ZdJkvilkfgulP48-2" value="Durante o prazo de&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(ChronoCard)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="HsCFxOGYkvxDGaH6NJR9-1" vertex="1">
           <mxGeometry x="340" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q4417ZdJkvilkfgulP48-3" value="Carimbar&amp;nbsp;&lt;div&gt;&lt;b&gt;Data de Envio&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(JourneyFlow)&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="HsCFxOGYkvxDGaH6NJR9-1" vertex="1">
+        <mxCell id="q4417ZdJkvilkfgulP48-3" value="Carimbar&amp;nbsp;&lt;div&gt;&lt;b&gt;Data de Envio&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(JourneyFlow)&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B9E0A5;strokeColor=#b85450;" parent="HsCFxOGYkvxDGaH6NJR9-1" vertex="1">
           <mxGeometry x="160" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q4417ZdJkvilkfgulP48-7" value="1. Ler do tópico &quot;communication-tracking-sended-topic&quot;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2. Pegar o log SMTP caso seja EMAIL&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;3. Gerar nova mensagem no kafka para chamar o Carimbador (&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Enviar o timestamp como data para carimbar)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="HsCFxOGYkvxDGaH6NJR9-1" vertex="1">
@@ -414,7 +414,7 @@
             <mxPoint x="-103" y="30" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q4417ZdJkvilkfgulP48-9" value="journey-simple-flow-service" style="rounded=0;whiteSpace=wrap;html=1;" parent="HsCFxOGYkvxDGaH6NJR9-1" vertex="1">
+        <mxCell id="q4417ZdJkvilkfgulP48-9" value="journey-stamp-flow-service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8CECC;" parent="HsCFxOGYkvxDGaH6NJR9-1" vertex="1">
           <mxGeometry x="260" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q4417ZdJkvilkfgulP48-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="HsCFxOGYkvxDGaH6NJR9-1" source="q4417ZdJkvilkfgulP48-10" target="q4417ZdJkvilkfgulP48-11" edge="1">
