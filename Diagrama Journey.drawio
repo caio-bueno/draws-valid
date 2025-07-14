@@ -392,7 +392,7 @@
         <mxCell id="q4417ZdJkvilkfgulP48-2" value="Durante o prazo de&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(ChronoCard)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="HsCFxOGYkvxDGaH6NJR9-1" vertex="1">
           <mxGeometry x="340" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q4417ZdJkvilkfgulP48-3" value="Carimbar&amp;nbsp;&lt;div&gt;&lt;b&gt;Data de Envio&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(JourneyFlow)&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B9E0A5;strokeColor=#b85450;" parent="HsCFxOGYkvxDGaH6NJR9-1" vertex="1">
+        <mxCell id="q4417ZdJkvilkfgulP48-3" value="Carimbar&amp;nbsp;&lt;div&gt;&lt;b&gt;Data de Envio&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(JourneyFlow)&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B9E0A5;strokeColor=#000000;" parent="HsCFxOGYkvxDGaH6NJR9-1" vertex="1">
           <mxGeometry x="160" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q4417ZdJkvilkfgulP48-7" value="1. Ler do tópico &quot;communication-tracking-sended-topic&quot;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2. Pegar o log SMTP caso seja EMAIL&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;3. Gerar nova mensagem no kafka para chamar o Carimbador (&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Enviar o timestamp como data para carimbar)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="HsCFxOGYkvxDGaH6NJR9-1" vertex="1">
@@ -441,6 +441,9 @@
         <mxCell id="q4417ZdJkvilkfgulP48-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="HsCFxOGYkvxDGaH6NJR9-1" source="q4417ZdJkvilkfgulP48-18" target="q4417ZdJkvilkfgulP48-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="oJdjeHR7T1UpMonEycyC-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HsCFxOGYkvxDGaH6NJR9-1" source="q4417ZdJkvilkfgulP48-18" target="oJdjeHR7T1UpMonEycyC-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="q4417ZdJkvilkfgulP48-18" value="valid-carimbador-datas-nmc" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="HsCFxOGYkvxDGaH6NJR9-1" vertex="1">
           <mxGeometry x="474" y="440" width="120" height="60" as="geometry" />
         </mxCell>
@@ -471,6 +474,9 @@
         </mxCell>
         <mxCell id="xJT9p_C8iAA3NT2ifCQl-0" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ReferenceId: &quot;3c3579a3-5e57-41b6-b914-9b8821aecb59&quot;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Data:&quot;2025-04-15T12:05:02.342+00:00&quot;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Label: &quot;Data de envio&quot;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;referenceDate: &quot;sentDate&quot;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;content:&quot;LOG DO SMTP COMPLETO&quot;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="HsCFxOGYkvxDGaH6NJR9-1" vertex="1">
           <mxGeometry x="560" y="245" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="oJdjeHR7T1UpMonEycyC-1" value="OBS: Consumer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HsCFxOGYkvxDGaH6NJR9-1">
+          <mxGeometry x="504" y="540" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
