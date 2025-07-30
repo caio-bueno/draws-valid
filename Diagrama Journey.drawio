@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="28.0.4" pages="5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="28.0.7" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Diagrama de Classes Journey">
     <mxGraphModel dx="838" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -414,7 +414,7 @@
             <mxPoint x="-103" y="30" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q4417ZdJkvilkfgulP48-9" value="journey-stamp-flow-service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8CECC;" parent="HsCFxOGYkvxDGaH6NJR9-1" vertex="1">
+        <mxCell id="q4417ZdJkvilkfgulP48-9" value="journey-stamp-flow-service&lt;div&gt;(Consumer/Producer)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8CECC;" parent="HsCFxOGYkvxDGaH6NJR9-1" vertex="1">
           <mxGeometry x="260" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q4417ZdJkvilkfgulP48-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="HsCFxOGYkvxDGaH6NJR9-1" source="q4417ZdJkvilkfgulP48-10" target="q4417ZdJkvilkfgulP48-11" edge="1">
@@ -441,10 +441,7 @@
         <mxCell id="q4417ZdJkvilkfgulP48-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="HsCFxOGYkvxDGaH6NJR9-1" source="q4417ZdJkvilkfgulP48-18" target="q4417ZdJkvilkfgulP48-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oJdjeHR7T1UpMonEycyC-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HsCFxOGYkvxDGaH6NJR9-1" source="q4417ZdJkvilkfgulP48-18" target="oJdjeHR7T1UpMonEycyC-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="q4417ZdJkvilkfgulP48-18" value="valid-carimbador-datas-nmc" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="HsCFxOGYkvxDGaH6NJR9-1" vertex="1">
+        <mxCell id="q4417ZdJkvilkfgulP48-18" value="valid-carimbador-datas-nmc&lt;div&gt;(Consumer)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="HsCFxOGYkvxDGaH6NJR9-1" vertex="1">
           <mxGeometry x="474" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q4417ZdJkvilkfgulP48-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="HsCFxOGYkvxDGaH6NJR9-1" source="q4417ZdJkvilkfgulP48-20" target="q4417ZdJkvilkfgulP48-22" edge="1">
@@ -460,7 +457,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="q4417ZdJkvilkfgulP48-20" value="valid-carimbador-tst" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="HsCFxOGYkvxDGaH6NJR9-1" vertex="1">
+        <mxCell id="q4417ZdJkvilkfgulP48-20" value="valid-carimbador-tst&lt;div&gt;(API)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="HsCFxOGYkvxDGaH6NJR9-1" vertex="1">
           <mxGeometry x="670" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q4417ZdJkvilkfgulP48-21" value="certificadora" style="rounded=0;whiteSpace=wrap;html=1;" parent="HsCFxOGYkvxDGaH6NJR9-1" vertex="1">
@@ -473,10 +470,10 @@
           <mxGeometry x="870" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xJT9p_C8iAA3NT2ifCQl-0" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ReferenceId: &quot;3c3579a3-5e57-41b6-b914-9b8821aecb59&quot;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Data:&quot;2025-04-15T12:05:02.342+00:00&quot;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Label: &quot;Data de envio&quot;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;referenceDate: &quot;sentDate&quot;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;content:&quot;LOG DO SMTP COMPLETO&quot;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="HsCFxOGYkvxDGaH6NJR9-1" vertex="1">
-          <mxGeometry x="560" y="245" width="250" height="90" as="geometry" />
+          <mxGeometry x="560" y="245" width="320" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="oJdjeHR7T1UpMonEycyC-1" value="OBS: Consumer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HsCFxOGYkvxDGaH6NJR9-1">
-          <mxGeometry x="504" y="540" width="60" height="30" as="geometry" />
+        <mxCell id="F4GXqOagBjc4odGgXrfm-0" value="Payload" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="HsCFxOGYkvxDGaH6NJR9-1">
+          <mxGeometry x="475" y="268" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
