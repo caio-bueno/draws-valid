@@ -442,7 +442,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q4417ZdJkvilkfgulP48-17" value="&lt;span style=&quot;text-align: left;&quot;&gt;timestamp-request&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="HsCFxOGYkvxDGaH6NJR9-1" vertex="1">
-          <mxGeometry x="310" y="250" width="164" height="80" as="geometry" />
+          <mxGeometry x="308" y="250" width="164" height="80" as="geometry" />
         </mxCell>
         <mxCell id="q4417ZdJkvilkfgulP48-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="HsCFxOGYkvxDGaH6NJR9-1" source="q4417ZdJkvilkfgulP48-18" target="q4417ZdJkvilkfgulP48-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
