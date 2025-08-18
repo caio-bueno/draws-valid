@@ -499,10 +499,14 @@
           <mxGeometry x="425" y="620" width="265" height="130" as="geometry" />
         </mxCell>
         <mxCell id="NBAHYkEb8wgmY2n2RhNQ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HsCFxOGYkvxDGaH6NJR9-1" source="NBAHYkEb8wgmY2n2RhNQ-4" target="q4417ZdJkvilkfgulP48-22">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="556" y="560" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="NBAHYkEb8wgmY2n2RhNQ-1" value="validpay-timestamp-img-api" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8CECC;strokeColor=#000000;" vertex="1" parent="HsCFxOGYkvxDGaH6NJR9-1">
-          <mxGeometry x="460" y="650" width="120" height="60" as="geometry" />
+          <mxGeometry x="496.25" y="655" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NBAHYkEb8wgmY2n2RhNQ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HsCFxOGYkvxDGaH6NJR9-1" source="NBAHYkEb8wgmY2n2RhNQ-1" target="NBAHYkEb8wgmY2n2RhNQ-4">
           <mxGeometry relative="1" as="geometry">
