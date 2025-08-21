@@ -307,6 +307,14 @@
         <mxCell id="7I5_nEBB2OWG0LIV8oBD-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="xnAskWQI795BVz0hWVEY-1" source="xnAskWQI795BVz0hWVEY-5" target="_-CuecyHVVai31-S6ssA-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="iEmeFLM2WPJfQBZBo2BD-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xnAskWQI795BVz0hWVEY-1" source="xnAskWQI795BVz0hWVEY-13" target="iEmeFLM2WPJfQBZBo2BD-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iEmeFLM2WPJfQBZBo2BD-3" value="Sim" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iEmeFLM2WPJfQBZBo2BD-2">
+          <mxGeometry x="0.0909" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="xnAskWQI795BVz0hWVEY-13" value="Comunicação Recebida?" style="rhombus;whiteSpace=wrap;html=1;" parent="xnAskWQI795BVz0hWVEY-1" vertex="1">
           <mxGeometry x="410" y="237" width="100" height="90" as="geometry" />
         </mxCell>
@@ -347,6 +355,9 @@
         </mxCell>
         <mxCell id="R9bmgiN1Azi26whGkkhP-2" value="&lt;div&gt;&lt;b&gt;Prazo maximo: (N) (DIAS/HORAS/MINUTOS)&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;align=left;" parent="xnAskWQI795BVz0hWVEY-1" vertex="1">
           <mxGeometry x="680" y="108" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iEmeFLM2WPJfQBZBo2BD-1" value="Enviar Email" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xnAskWQI795BVz0hWVEY-1">
+          <mxGeometry x="160" y="252" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
